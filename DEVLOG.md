@@ -7,3 +7,4 @@
 - **[2025-01-01 16:28:11]** (5/2200) docs(order): add sound alert triggers when rider receives nearby dispatch request
 - **[2025-01-01 18:20:41]** (6/2200) test(restaurant): streamline restaurant menu modifier selection and price tally
 - **[2025-01-01 19:05:11]** (7/2200) chore(auth): add comprehensive unit tests for delivery fee calculation
+- **[2025-01-02 09:16:28]** (8/2200) feat(websocket): refactor delivery zone polygon geofencing algorithm
