@@ -26,3 +26,4 @@
 - **[2025-01-04 12:00:02]** (24/2200) feat(map): optimize food category horizontal scrolling performance
 - **[2025-01-04 14:52:32]** (25/2200) fix(notification): add sound alert triggers when rider receives nearby dispatch request
 - **[2025-01-04 16:28:02]** (26/2200) refactor(ui): streamline restaurant menu modifier selection and price tally
+- **[2025-01-04 18:20:32]** (27/2200) perf(checkout): add comprehensive unit tests for delivery fee calculation
