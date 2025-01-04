@@ -27,3 +27,4 @@
 - **[2025-01-04 14:52:32]** (25/2200) fix(notification): add sound alert triggers when rider receives nearby dispatch request
 - **[2025-01-04 16:28:02]** (26/2200) refactor(ui): streamline restaurant menu modifier selection and price tally
 - **[2025-01-04 18:20:32]** (27/2200) perf(checkout): add comprehensive unit tests for delivery fee calculation
+- **[2025-01-04 19:05:02]** (28/2200) style(rider): refactor delivery zone polygon geofencing algorithm
