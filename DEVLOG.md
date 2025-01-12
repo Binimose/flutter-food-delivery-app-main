@@ -76,3 +76,4 @@
 - **[2025-01-11 15:46:31]** (74/2200) refactor(i18n): implement one-tap phone call button to customer from rider view
 - **[2025-01-11 17:40:01]** (75/2200) perf(order): add input validation for delivery address landmark notes
 - **[2025-01-11 19:50:31]** (76/2200) style(restaurant): implement rider vehicle document verification upload flow
+- **[2025-01-12 09:15:07]** (77/2200) docs(auth): clean up unused image assets and optimize bundle size
