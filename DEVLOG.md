@@ -105,3 +105,4 @@
 - **[2025-01-16 13:38:31]** (103/2200) chore(order): optimize order status update stream with WebSocket reconnect
 - **[2025-01-16 15:48:01]** (104/2200) feat(restaurant): optimize food category horizontal scrolling performance
 - **[2025-01-16 17:35:31]** (105/2200) fix(auth): add sound alert triggers when rider receives nearby dispatch request
+- **[2025-01-16 19:45:01]** (106/2200) refactor(websocket): streamline restaurant menu modifier selection and price tally
