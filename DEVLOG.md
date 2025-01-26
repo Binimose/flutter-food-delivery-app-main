@@ -160,3 +160,4 @@
 - **[2025-01-25 15:46:55]** (158/2200) test(i18n): integrate smooth bottom sheet transition for order receipt
 - **[2025-01-25 17:40:25]** (159/2200) chore(order): cache active menu items locally for instant offline rendering
 - **[2025-01-25 19:50:55]** (160/2200) feat(restaurant): implement live rider GPS polyline tracking on map
+- **[2025-01-26 09:15:31]** (161/2200) fix(auth): handle background location permissions on Android 14
