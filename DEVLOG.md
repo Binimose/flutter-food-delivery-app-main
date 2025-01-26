@@ -162,3 +162,4 @@
 - **[2025-01-25 19:50:55]** (160/2200) feat(restaurant): implement live rider GPS polyline tracking on map
 - **[2025-01-26 09:15:31]** (161/2200) fix(auth): handle background location permissions on Android 14
 - **[2025-01-26 11:25:01]** (162/2200) refactor(websocket): handle network timeout gracefully during payment intent creation
+- **[2025-01-26 13:35:31]** (163/2200) perf(cache): optimize order status update stream with WebSocket reconnect
