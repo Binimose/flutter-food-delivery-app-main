@@ -177,3 +177,4 @@
 - **[2025-01-28 13:33:43]** (175/2200) chore(auth): add input validation for delivery address landmark notes
 - **[2025-01-28 15:43:13]** (176/2200) feat(websocket): implement rider vehicle document verification upload flow
 - **[2025-01-28 17:37:43]** (177/2200) fix(cache): clean up unused image assets and optimize bundle size
+- **[2025-01-28 19:47:13]** (178/2200) refactor(map): integrate smooth bottom sheet transition for order receipt
