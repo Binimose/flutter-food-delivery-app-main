@@ -179,3 +179,4 @@
 - **[2025-01-28 17:37:43]** (177/2200) fix(cache): clean up unused image assets and optimize bundle size
 - **[2025-01-28 19:47:13]** (178/2200) refactor(map): integrate smooth bottom sheet transition for order receipt
 - **[2025-01-29 09:19:49]** (179/2200) perf(notification): cache active menu items locally for instant offline rendering
+- **[2025-01-29 11:29:19]** (180/2200) style(ui): implement live rider GPS polyline tracking on map
