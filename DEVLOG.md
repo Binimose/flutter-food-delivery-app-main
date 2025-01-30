@@ -186,3 +186,4 @@
 - **[2025-01-29 19:46:19]** (184/2200) feat(payment): optimize food category horizontal scrolling performance
 - **[2025-01-30 09:18:55]** (185/2200) fix(routing): add sound alert triggers when rider receives nearby dispatch request
 - **[2025-01-30 11:28:25]** (186/2200) refactor(i18n): streamline restaurant menu modifier selection and price tally
+- **[2025-01-30 13:38:55]** (187/2200) perf(order): add comprehensive unit tests for delivery fee calculation
