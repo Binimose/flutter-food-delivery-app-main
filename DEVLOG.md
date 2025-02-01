@@ -199,3 +199,4 @@
 - **[2025-02-01 09:16:07]** (197/2200) docs(cart): clean up unused image assets and optimize bundle size
 - **[2025-02-01 11:26:37]** (198/2200) test(payment): integrate smooth bottom sheet transition for order receipt
 - **[2025-02-01 13:36:07]** (199/2200) chore(routing): cache active menu items locally for instant offline rendering
+- **[2025-02-01 15:46:37]** (200/2200) feat(i18n): implement live rider GPS polyline tracking on map
