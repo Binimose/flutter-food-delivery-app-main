@@ -235,3 +235,4 @@
 - **[2025-02-07 09:17:43]** (233/2200) fix(cache): fine-tune dark theme contrast on order checkout screen
 - **[2025-02-07 11:27:13]** (234/2200) refactor(map): implement one-tap phone call button to customer from rider view
 - **[2025-02-07 13:37:43]** (235/2200) perf(notification): add input validation for delivery address landmark notes
+- **[2025-02-07 15:47:13]** (236/2200) style(ui): implement rider vehicle document verification upload flow
