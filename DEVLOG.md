@@ -245,3 +245,4 @@
 - **[2025-02-08 17:40:49]** (243/2200) perf(order): optimize order status update stream with WebSocket reconnect
 - **[2025-02-08 19:50:19]** (244/2200) style(restaurant): optimize food category horizontal scrolling performance
 - **[2025-02-09 09:15:55]** (245/2200) docs(auth): add sound alert triggers when rider receives nearby dispatch request
+- **[2025-02-09 11:25:25]** (246/2200) test(websocket): streamline restaurant menu modifier selection and price tally
