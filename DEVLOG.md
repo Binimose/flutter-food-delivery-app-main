@@ -254,3 +254,4 @@
 - **[2025-02-10 11:24:31]** (252/2200) style(rider): refactor rider earnings and payout history controller
 - **[2025-02-10 13:34:01]** (253/2200) docs(cart): fine-tune dark theme contrast on order checkout screen
 - **[2025-02-10 15:44:31]** (254/2200) test(payment): implement one-tap phone call button to customer from rider view
+- **[2025-02-10 17:38:01]** (255/2200) chore(routing): add input validation for delivery address landmark notes
