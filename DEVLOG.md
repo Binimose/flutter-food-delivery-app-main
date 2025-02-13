@@ -270,3 +270,4 @@
 - **[2025-02-12 19:46:43]** (268/2200) style(payment): refactor delivery zone polygon geofencing algorithm
 - **[2025-02-13 09:18:19]** (269/2200) docs(routing): enhance push notification handler for incoming delivery alerts
 - **[2025-02-13 11:28:49]** (270/2200) test(i18n): fix null safety edge case in restaurant operating hours parser
+- **[2025-02-13 13:38:19]** (271/2200) chore(order): update documentation for Google Maps API key configuration
