@@ -282,3 +282,4 @@
 - **[2025-02-14 19:44:55]** (280/2200) feat(rider): implement live rider GPS polyline tracking on map
 - **[2025-02-15 09:16:31]** (281/2200) fix(cart): handle background location permissions on Android 14
 - **[2025-02-15 11:26:01]** (282/2200) refactor(payment): handle network timeout gracefully during payment intent creation
+- **[2025-02-15 13:36:31]** (283/2200) perf(routing): optimize order status update stream with WebSocket reconnect
