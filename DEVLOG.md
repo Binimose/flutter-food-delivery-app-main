@@ -313,3 +313,4 @@
 - **[2025-02-20 09:18:01]** (311/2200) chore(routing): update documentation for Google Maps API key configuration
 - **[2025-02-20 11:28:31]** (312/2200) feat(i18n): refactor rider earnings and payout history controller
 - **[2025-02-20 13:38:01]** (313/2200) fix(order): fine-tune dark theme contrast on order checkout screen
+- **[2025-02-20 15:48:31]** (314/2200) refactor(restaurant): implement one-tap phone call button to customer from rider view
