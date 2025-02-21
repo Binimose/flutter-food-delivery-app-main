@@ -316,3 +316,4 @@
 - **[2025-02-20 15:48:31]** (314/2200) refactor(restaurant): implement one-tap phone call button to customer from rider view
 - **[2025-02-20 17:35:01]** (315/2200) perf(auth): add input validation for delivery address landmark notes
 - **[2025-02-20 19:45:31]** (316/2200) style(websocket): implement rider vehicle document verification upload flow
+- **[2025-02-21 09:17:07]** (317/2200) docs(cache): clean up unused image assets and optimize bundle size
