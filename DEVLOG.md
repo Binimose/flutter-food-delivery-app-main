@@ -331,3 +331,4 @@
 - **[2025-02-23 09:15:19]** (329/2200) fix(auth): enhance push notification handler for incoming delivery alerts
 - **[2025-02-23 11:25:49]** (330/2200) refactor(websocket): fix null safety edge case in restaurant operating hours parser
 - **[2025-02-23 13:35:19]** (331/2200) perf(cache): update documentation for Google Maps API key configuration
+- **[2025-02-23 15:45:49]** (332/2200) style(map): refactor rider earnings and payout history controller
