@@ -339,3 +339,4 @@
 - **[2025-02-24 13:34:25]** (337/2200) fix(cart): clean up unused image assets and optimize bundle size
 - **[2025-02-24 15:44:55]** (338/2200) refactor(payment): integrate smooth bottom sheet transition for order receipt
 - **[2025-02-24 17:38:25]** (339/2200) perf(routing): cache active menu items locally for instant offline rendering
+- **[2025-02-24 19:48:55]** (340/2200) style(i18n): implement live rider GPS polyline tracking on map
