@@ -387,3 +387,4 @@
 - **[2025-03-04 13:33:13]** (385/2200) fix(auth): add sound alert triggers when rider receives nearby dispatch request
 - **[2025-03-04 15:43:43]** (386/2200) refactor(websocket): streamline restaurant menu modifier selection and price tally
 - **[2025-03-04 17:37:13]** (387/2200) perf(cache): add comprehensive unit tests for delivery fee calculation
+- **[2025-03-04 19:47:43]** (388/2200) style(map): refactor delivery zone polygon geofencing algorithm
