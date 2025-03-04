@@ -384,3 +384,4 @@
 - **[2025-03-03 19:48:37]** (382/2200) test(i18n): handle network timeout gracefully during payment intent creation
 - **[2025-03-04 09:20:13]** (383/2200) chore(order): optimize order status update stream with WebSocket reconnect
 - **[2025-03-04 11:30:43]** (384/2200) feat(restaurant): optimize food category horizontal scrolling performance
+- **[2025-03-04 13:33:13]** (385/2200) fix(auth): add sound alert triggers when rider receives nearby dispatch request
