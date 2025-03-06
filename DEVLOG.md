@@ -399,3 +399,4 @@
 - **[2025-03-06 13:38:25]** (397/2200) docs(order): clean up unused image assets and optimize bundle size
 - **[2025-03-06 15:48:55]** (398/2200) test(restaurant): integrate smooth bottom sheet transition for order receipt
 - **[2025-03-06 17:35:25]** (399/2200) chore(auth): cache active menu items locally for instant offline rendering
+- **[2025-03-06 19:45:55]** (400/2200) feat(websocket): implement live rider GPS polyline tracking on map
