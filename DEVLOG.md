@@ -406,3 +406,4 @@
 - **[2025-03-07 15:47:01]** (404/2200) style(ui): optimize food category horizontal scrolling performance
 - **[2025-03-07 17:41:31]** (405/2200) docs(checkout): add sound alert triggers when rider receives nearby dispatch request
 - **[2025-03-07 19:44:01]** (406/2200) test(rider): streamline restaurant menu modifier selection and price tally
+- **[2025-03-08 09:16:37]** (407/2200) chore(cart): add comprehensive unit tests for delivery fee calculation
