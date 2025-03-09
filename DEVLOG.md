@@ -413,3 +413,4 @@
 - **[2025-03-08 17:40:37]** (411/2200) perf(order): update documentation for Google Maps API key configuration
 - **[2025-03-08 19:50:07]** (412/2200) style(restaurant): refactor rider earnings and payout history controller
 - **[2025-03-09 09:15:43]** (413/2200) docs(auth): fine-tune dark theme contrast on order checkout screen
+- **[2025-03-09 11:25:13]** (414/2200) test(websocket): implement one-tap phone call button to customer from rider view
