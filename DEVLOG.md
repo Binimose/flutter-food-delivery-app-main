@@ -430,3 +430,4 @@
 - **[2025-03-11 15:43:25]** (428/2200) style(websocket): refactor delivery zone polygon geofencing algorithm
 - **[2025-03-11 17:37:55]** (429/2200) docs(cache): enhance push notification handler for incoming delivery alerts
 - **[2025-03-11 19:47:25]** (430/2200) test(map): fix null safety edge case in restaurant operating hours parser
+- **[2025-03-12 09:19:01]** (431/2200) chore(notification): update documentation for Google Maps API key configuration
