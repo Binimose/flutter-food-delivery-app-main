@@ -441,3 +441,4 @@
 - **[2025-03-13 13:38:07]** (439/2200) chore(order): cache active menu items locally for instant offline rendering
 - **[2025-03-13 15:48:37]** (440/2200) feat(restaurant): implement live rider GPS polyline tracking on map
 - **[2025-03-13 17:35:07]** (441/2200) fix(auth): handle background location permissions on Android 14
+- **[2025-03-13 19:45:37]** (442/2200) refactor(websocket): handle network timeout gracefully during payment intent creation
