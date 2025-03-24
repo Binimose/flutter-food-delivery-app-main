@@ -502,3 +502,4 @@
 - **[2025-03-23 15:45:37]** (500/2200) style(map): implement live rider GPS polyline tracking on map
 - **[2025-03-23 17:39:07]** (501/2200) docs(notification): handle background location permissions on Android 14
 - **[2025-03-23 19:49:37]** (502/2200) test(ui): handle network timeout gracefully during payment intent creation
+- **[2025-03-24 09:21:13]** (503/2200) chore(checkout): optimize order status update stream with WebSocket reconnect
