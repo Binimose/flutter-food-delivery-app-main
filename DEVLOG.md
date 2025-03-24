@@ -505,3 +505,4 @@
 - **[2025-03-24 09:21:13]** (503/2200) chore(checkout): optimize order status update stream with WebSocket reconnect
 - **[2025-03-24 11:24:43]** (504/2200) feat(rider): optimize food category horizontal scrolling performance
 - **[2025-03-24 13:34:13]** (505/2200) fix(cart): add sound alert triggers when rider receives nearby dispatch request
+- **[2025-03-24 15:44:43]** (506/2200) refactor(payment): streamline restaurant menu modifier selection and price tally
