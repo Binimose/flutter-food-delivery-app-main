@@ -523,3 +523,4 @@
 - **[2025-03-27 09:18:31]** (521/2200) fix(routing): handle background location permissions on Android 14
 - **[2025-03-27 11:28:01]** (522/2200) refactor(i18n): handle network timeout gracefully during payment intent creation
 - **[2025-03-27 13:38:31]** (523/2200) perf(order): optimize order status update stream with WebSocket reconnect
+- **[2025-03-27 15:48:01]** (524/2200) style(restaurant): optimize food category horizontal scrolling performance
