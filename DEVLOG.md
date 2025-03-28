@@ -526,3 +526,4 @@
 - **[2025-03-27 15:48:01]** (524/2200) style(restaurant): optimize food category horizontal scrolling performance
 - **[2025-03-27 17:35:31]** (525/2200) docs(auth): add sound alert triggers when rider receives nearby dispatch request
 - **[2025-03-27 19:45:01]** (526/2200) test(websocket): streamline restaurant menu modifier selection and price tally
+- **[2025-03-28 09:17:37]** (527/2200) chore(cache): add comprehensive unit tests for delivery fee calculation
