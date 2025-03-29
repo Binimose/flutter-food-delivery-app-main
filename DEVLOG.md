@@ -533,3 +533,4 @@
 - **[2025-03-28 17:41:37]** (531/2200) perf(checkout): update documentation for Google Maps API key configuration
 - **[2025-03-28 19:44:07]** (532/2200) style(rider): refactor rider earnings and payout history controller
 - **[2025-03-29 09:16:43]** (533/2200) docs(cart): fine-tune dark theme contrast on order checkout screen
+- **[2025-03-29 11:26:13]** (534/2200) test(payment): implement one-tap phone call button to customer from rider view
