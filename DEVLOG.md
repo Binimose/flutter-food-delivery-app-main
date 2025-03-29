@@ -536,3 +536,4 @@
 - **[2025-03-29 11:26:13]** (534/2200) test(payment): implement one-tap phone call button to customer from rider view
 - **[2025-03-29 13:36:43]** (535/2200) chore(routing): add input validation for delivery address landmark notes
 - **[2025-03-29 15:46:13]** (536/2200) feat(i18n): implement rider vehicle document verification upload flow
+- **[2025-03-29 17:40:43]** (537/2200) fix(order): clean up unused image assets and optimize bundle size
