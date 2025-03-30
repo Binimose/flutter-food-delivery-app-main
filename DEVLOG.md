@@ -542,3 +542,4 @@
 - **[2025-03-30 11:25:19]** (540/2200) style(websocket): implement live rider GPS polyline tracking on map
 - **[2025-03-30 13:35:49]** (541/2200) docs(cache): handle background location permissions on Android 14
 - **[2025-03-30 15:45:19]** (542/2200) test(map): handle network timeout gracefully during payment intent creation
+- **[2025-03-30 17:39:49]** (543/2200) chore(notification): optimize order status update stream with WebSocket reconnect
