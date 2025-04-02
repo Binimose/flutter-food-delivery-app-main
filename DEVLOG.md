@@ -560,3 +560,4 @@
 - **[2025-04-02 11:29:37]** (558/2200) test(ui): integrate smooth bottom sheet transition for order receipt
 - **[2025-04-02 13:39:07]** (559/2200) chore(checkout): cache active menu items locally for instant offline rendering
 - **[2025-04-02 15:42:37]** (560/2200) feat(rider): implement live rider GPS polyline tracking on map
+- **[2025-04-02 17:36:07]** (561/2200) fix(cart): handle background location permissions on Android 14
