@@ -556,3 +556,4 @@
 - **[2025-04-01 15:43:31]** (554/2200) refactor(websocket): implement one-tap phone call button to customer from rider view
 - **[2025-04-01 17:37:01]** (555/2200) perf(cache): add input validation for delivery address landmark notes
 - **[2025-04-01 19:47:31]** (556/2200) style(map): implement rider vehicle document verification upload flow
+- **[2025-04-02 09:19:07]** (557/2200) docs(notification): clean up unused image assets and optimize bundle size
