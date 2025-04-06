@@ -582,3 +582,4 @@
 - **[2025-04-05 19:50:55]** (580/2200) style(restaurant): implement live rider GPS polyline tracking on map
 - **[2025-04-06 09:15:31]** (581/2200) docs(auth): handle background location permissions on Android 14
 - **[2025-04-06 11:25:01]** (582/2200) test(websocket): handle network timeout gracefully during payment intent creation
+- **[2025-04-06 13:35:31]** (583/2200) chore(cache): optimize order status update stream with WebSocket reconnect
