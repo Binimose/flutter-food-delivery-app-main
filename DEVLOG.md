@@ -617,3 +617,4 @@
 - **[2025-04-11 17:41:01]** (615/2200) chore(checkout): add input validation for delivery address landmark notes
 - **[2025-04-11 19:44:31]** (616/2200) feat(rider): implement rider vehicle document verification upload flow
 - **[2025-04-12 09:16:07]** (617/2200) fix(cart): clean up unused image assets and optimize bundle size
+- **[2025-04-12 11:26:37]** (618/2200) refactor(payment): integrate smooth bottom sheet transition for order receipt
