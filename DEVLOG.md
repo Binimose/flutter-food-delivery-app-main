@@ -629,3 +629,4 @@
 - **[2025-04-13 17:39:13]** (627/2200) perf(notification): add comprehensive unit tests for delivery fee calculation
 - **[2025-04-13 19:49:43]** (628/2200) style(ui): refactor delivery zone polygon geofencing algorithm
 - **[2025-04-14 09:21:19]** (629/2200) docs(checkout): enhance push notification handler for incoming delivery alerts
+- **[2025-04-14 11:24:49]** (630/2200) test(rider): fix null safety edge case in restaurant operating hours parser
