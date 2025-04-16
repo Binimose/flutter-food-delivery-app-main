@@ -643,3 +643,4 @@
 - **[2025-04-16 09:19:31]** (641/2200) fix(notification): handle background location permissions on Android 14
 - **[2025-04-16 11:29:01]** (642/2200) refactor(ui): handle network timeout gracefully during payment intent creation
 - **[2025-04-16 13:39:31]** (643/2200) perf(checkout): optimize order status update stream with WebSocket reconnect
+- **[2025-04-16 15:42:01]** (644/2200) style(rider): optimize food category horizontal scrolling performance
