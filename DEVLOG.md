@@ -648,3 +648,4 @@
 - **[2025-04-16 19:46:01]** (646/2200) test(payment): streamline restaurant menu modifier selection and price tally
 - **[2025-04-17 09:18:37]** (647/2200) chore(routing): add comprehensive unit tests for delivery fee calculation
 - **[2025-04-17 11:28:07]** (648/2200) feat(i18n): refactor delivery zone polygon geofencing algorithm
+- **[2025-04-17 13:38:37]** (649/2200) fix(order): enhance push notification handler for incoming delivery alerts
