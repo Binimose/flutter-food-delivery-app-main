@@ -674,3 +674,4 @@
 - **[2025-04-21 11:24:31]** (672/2200) feat(rider): refactor rider earnings and payout history controller
 - **[2025-04-21 13:34:01]** (673/2200) fix(cart): fine-tune dark theme contrast on order checkout screen
 - **[2025-04-21 15:44:31]** (674/2200) refactor(payment): implement one-tap phone call button to customer from rider view
+- **[2025-04-21 17:38:01]** (675/2200) perf(routing): add input validation for delivery address landmark notes
