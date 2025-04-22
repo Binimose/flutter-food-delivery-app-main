@@ -680,3 +680,4 @@
 - **[2025-04-22 11:30:37]** (678/2200) test(restaurant): integrate smooth bottom sheet transition for order receipt
 - **[2025-04-22 13:33:07]** (679/2200) chore(auth): cache active menu items locally for instant offline rendering
 - **[2025-04-22 15:43:37]** (680/2200) feat(websocket): implement live rider GPS polyline tracking on map
+- **[2025-04-22 17:37:07]** (681/2200) fix(cache): handle background location permissions on Android 14
