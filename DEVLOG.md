@@ -713,3 +713,4 @@
 - **[2025-04-27 17:39:37]** (711/2200) chore(notification): update documentation for Google Maps API key configuration
 - **[2025-04-27 19:49:07]** (712/2200) feat(ui): refactor rider earnings and payout history controller
 - **[2025-04-28 09:21:43]** (713/2200) fix(checkout): fine-tune dark theme contrast on order checkout screen
+- **[2025-04-28 11:24:13]** (714/2200) refactor(rider): implement one-tap phone call button to customer from rider view
