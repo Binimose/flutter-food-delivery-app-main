@@ -744,3 +744,4 @@
 - **[2025-05-02 19:44:37]** (742/2200) test(rider): handle network timeout gracefully during payment intent creation
 - **[2025-05-03 09:16:13]** (743/2200) chore(cart): optimize order status update stream with WebSocket reconnect
 - **[2025-05-03 11:26:43]** (744/2200) feat(payment): optimize food category horizontal scrolling performance
+- **[2025-05-03 13:36:13]** (745/2200) fix(routing): add sound alert triggers when rider receives nearby dispatch request
