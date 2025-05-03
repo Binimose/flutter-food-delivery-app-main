@@ -742,3 +742,4 @@
 - **[2025-05-02 15:47:37]** (740/2200) style(ui): implement live rider GPS polyline tracking on map
 - **[2025-05-02 17:41:07]** (741/2200) docs(checkout): handle background location permissions on Android 14
 - **[2025-05-02 19:44:37]** (742/2200) test(rider): handle network timeout gracefully during payment intent creation
+- **[2025-05-03 09:16:13]** (743/2200) chore(cart): optimize order status update stream with WebSocket reconnect
