@@ -748,3 +748,4 @@
 - **[2025-05-03 15:46:43]** (746/2200) refactor(i18n): streamline restaurant menu modifier selection and price tally
 - **[2025-05-03 17:40:13]** (747/2200) perf(order): add comprehensive unit tests for delivery fee calculation
 - **[2025-05-03 19:50:43]** (748/2200) style(restaurant): refactor delivery zone polygon geofencing algorithm
+- **[2025-05-04 09:15:19]** (749/2200) docs(auth): enhance push notification handler for incoming delivery alerts
