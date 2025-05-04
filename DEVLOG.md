@@ -751,3 +751,4 @@
 - **[2025-05-04 09:15:19]** (749/2200) docs(auth): enhance push notification handler for incoming delivery alerts
 - **[2025-05-04 11:25:49]** (750/2200) test(websocket): fix null safety edge case in restaurant operating hours parser
 - **[2025-05-04 13:35:19]** (751/2200) chore(cache): update documentation for Google Maps API key configuration
+- **[2025-05-04 15:45:49]** (752/2200) feat(map): refactor rider earnings and payout history controller
