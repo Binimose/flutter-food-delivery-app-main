@@ -756,3 +756,4 @@
 - **[2025-05-04 19:49:49]** (754/2200) refactor(ui): implement one-tap phone call button to customer from rider view
 - **[2025-05-05 09:21:25]** (755/2200) perf(checkout): add input validation for delivery address landmark notes
 - **[2025-05-05 11:24:55]** (756/2200) style(rider): implement rider vehicle document verification upload flow
+- **[2025-05-05 13:34:25]** (757/2200) docs(cart): clean up unused image assets and optimize bundle size
