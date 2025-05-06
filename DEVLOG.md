@@ -761,3 +761,4 @@
 - **[2025-05-05 17:38:25]** (759/2200) chore(routing): cache active menu items locally for instant offline rendering
 - **[2025-05-05 19:48:55]** (760/2200) feat(i18n): implement live rider GPS polyline tracking on map
 - **[2025-05-06 09:20:31]** (761/2200) fix(order): handle background location permissions on Android 14
+- **[2025-05-06 11:30:01]** (762/2200) refactor(restaurant): handle network timeout gracefully during payment intent creation
