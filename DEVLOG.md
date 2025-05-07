@@ -768,3 +768,4 @@
 - **[2025-05-06 19:47:01]** (766/2200) test(map): streamline restaurant menu modifier selection and price tally
 - **[2025-05-07 09:19:37]** (767/2200) chore(notification): add comprehensive unit tests for delivery fee calculation
 - **[2025-05-07 11:29:07]** (768/2200) feat(ui): refactor delivery zone polygon geofencing algorithm
+- **[2025-05-07 13:39:37]** (769/2200) fix(checkout): enhance push notification handler for incoming delivery alerts
