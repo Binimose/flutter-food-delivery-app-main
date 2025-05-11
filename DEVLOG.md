@@ -790,3 +790,4 @@
 - **[2025-05-10 15:46:25]** (788/2200) style(i18n): refactor delivery zone polygon geofencing algorithm
 - **[2025-05-10 17:40:55]** (789/2200) docs(order): enhance push notification handler for incoming delivery alerts
 - **[2025-05-10 19:50:25]** (790/2200) test(restaurant): fix null safety edge case in restaurant operating hours parser
+- **[2025-05-11 09:15:01]** (791/2200) chore(auth): update documentation for Google Maps API key configuration
