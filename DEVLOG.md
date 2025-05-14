@@ -808,3 +808,4 @@
 - **[2025-05-13 15:43:43]** (806/2200) test(websocket): streamline restaurant menu modifier selection and price tally
 - **[2025-05-13 17:37:13]** (807/2200) chore(cache): add comprehensive unit tests for delivery fee calculation
 - **[2025-05-13 19:47:43]** (808/2200) feat(map): refactor delivery zone polygon geofencing algorithm
+- **[2025-05-14 09:19:19]** (809/2200) fix(notification): enhance push notification handler for incoming delivery alerts
