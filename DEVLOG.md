@@ -817,3 +817,4 @@
 - **[2025-05-15 09:18:25]** (815/2200) chore(routing): add input validation for delivery address landmark notes
 - **[2025-05-15 11:28:55]** (816/2200) feat(i18n): implement rider vehicle document verification upload flow
 - **[2025-05-15 13:38:25]** (817/2200) fix(order): clean up unused image assets and optimize bundle size
+- **[2025-05-15 15:48:55]** (818/2200) refactor(restaurant): integrate smooth bottom sheet transition for order receipt
