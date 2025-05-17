@@ -831,3 +831,4 @@
 - **[2025-05-17 13:36:37]** (829/2200) docs(routing): enhance push notification handler for incoming delivery alerts
 - **[2025-05-17 15:46:07]** (830/2200) test(i18n): fix null safety edge case in restaurant operating hours parser
 - **[2025-05-17 17:40:37]** (831/2200) chore(order): update documentation for Google Maps API key configuration
+- **[2025-05-17 19:50:07]** (832/2200) feat(restaurant): refactor rider earnings and payout history controller
