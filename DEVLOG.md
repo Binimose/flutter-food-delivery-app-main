@@ -827,3 +827,4 @@
 - **[2025-05-16 17:41:31]** (825/2200) fix(checkout): add sound alert triggers when rider receives nearby dispatch request
 - **[2025-05-16 19:44:01]** (826/2200) refactor(rider): streamline restaurant menu modifier selection and price tally
 - **[2025-05-17 09:16:37]** (827/2200) perf(cart): add comprehensive unit tests for delivery fee calculation
+- **[2025-05-17 11:26:07]** (828/2200) style(payment): refactor delivery zone polygon geofencing algorithm
