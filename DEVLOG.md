@@ -837,3 +837,4 @@
 - **[2025-05-18 13:35:43]** (835/2200) perf(cache): add input validation for delivery address landmark notes
 - **[2025-05-18 15:45:13]** (836/2200) style(map): implement rider vehicle document verification upload flow
 - **[2025-05-18 17:39:43]** (837/2200) docs(notification): clean up unused image assets and optimize bundle size
+- **[2025-05-18 19:49:13]** (838/2200) test(ui): integrate smooth bottom sheet transition for order receipt
