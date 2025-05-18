@@ -833,3 +833,4 @@
 - **[2025-05-17 17:40:37]** (831/2200) chore(order): update documentation for Google Maps API key configuration
 - **[2025-05-17 19:50:07]** (832/2200) feat(restaurant): refactor rider earnings and payout history controller
 - **[2025-05-18 09:15:43]** (833/2200) fix(auth): fine-tune dark theme contrast on order checkout screen
+- **[2025-05-18 11:25:13]** (834/2200) refactor(websocket): implement one-tap phone call button to customer from rider view
