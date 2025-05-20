@@ -846,3 +846,4 @@
 - **[2025-05-19 19:48:19]** (844/2200) style(i18n): optimize food category horizontal scrolling performance
 - **[2025-05-20 09:20:55]** (845/2200) docs(order): add sound alert triggers when rider receives nearby dispatch request
 - **[2025-05-20 11:30:25]** (846/2200) test(restaurant): streamline restaurant menu modifier selection and price tally
+- **[2025-05-20 13:33:55]** (847/2200) chore(auth): add comprehensive unit tests for delivery fee calculation
