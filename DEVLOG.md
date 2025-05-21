@@ -850,3 +850,4 @@
 - **[2025-05-20 15:43:25]** (848/2200) feat(websocket): refactor delivery zone polygon geofencing algorithm
 - **[2025-05-20 17:37:55]** (849/2200) fix(cache): enhance push notification handler for incoming delivery alerts
 - **[2025-05-20 19:47:25]** (850/2200) refactor(map): fix null safety edge case in restaurant operating hours parser
+- **[2025-05-21 09:19:01]** (851/2200) perf(notification): update documentation for Google Maps API key configuration
