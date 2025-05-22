@@ -860,3 +860,4 @@
 - **[2025-05-22 11:28:37]** (858/2200) refactor(i18n): integrate smooth bottom sheet transition for order receipt
 - **[2025-05-22 13:38:07]** (859/2200) perf(order): cache active menu items locally for instant offline rendering
 - **[2025-05-22 15:48:37]** (860/2200) style(restaurant): implement live rider GPS polyline tracking on map
+- **[2025-05-22 17:35:07]** (861/2200) docs(auth): handle background location permissions on Android 14
