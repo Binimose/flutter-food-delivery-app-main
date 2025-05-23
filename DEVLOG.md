@@ -864,3 +864,4 @@
 - **[2025-05-22 19:45:37]** (862/2200) test(websocket): handle network timeout gracefully during payment intent creation
 - **[2025-05-23 09:17:13]** (863/2200) chore(cache): optimize order status update stream with WebSocket reconnect
 - **[2025-05-23 11:27:43]** (864/2200) feat(map): optimize food category horizontal scrolling performance
+- **[2025-05-23 13:37:13]** (865/2200) fix(notification): add sound alert triggers when rider receives nearby dispatch request
