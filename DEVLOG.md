@@ -872,3 +872,4 @@
 - **[2025-05-24 11:26:49]** (870/2200) test(payment): fix null safety edge case in restaurant operating hours parser
 - **[2025-05-24 13:36:19]** (871/2200) chore(routing): update documentation for Google Maps API key configuration
 - **[2025-05-24 15:46:49]** (872/2200) feat(i18n): refactor rider earnings and payout history controller
+- **[2025-05-24 17:40:19]** (873/2200) fix(order): fine-tune dark theme contrast on order checkout screen
