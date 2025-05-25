@@ -878,3 +878,4 @@
 - **[2025-05-25 11:25:55]** (876/2200) style(websocket): implement rider vehicle document verification upload flow
 - **[2025-05-25 13:35:25]** (877/2200) docs(cache): clean up unused image assets and optimize bundle size
 - **[2025-05-25 15:45:55]** (878/2200) test(map): integrate smooth bottom sheet transition for order receipt
+- **[2025-05-25 17:39:25]** (879/2200) chore(notification): cache active menu items locally for instant offline rendering
