@@ -885,3 +885,4 @@
 - **[2025-05-26 13:34:31]** (883/2200) perf(cart): optimize order status update stream with WebSocket reconnect
 - **[2025-05-26 15:44:01]** (884/2200) style(payment): optimize food category horizontal scrolling performance
 - **[2025-05-26 17:38:31]** (885/2200) docs(routing): add sound alert triggers when rider receives nearby dispatch request
+- **[2025-05-26 19:48:01]** (886/2200) test(i18n): streamline restaurant menu modifier selection and price tally
