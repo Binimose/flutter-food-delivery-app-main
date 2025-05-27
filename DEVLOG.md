@@ -888,3 +888,4 @@
 - **[2025-05-26 19:48:01]** (886/2200) test(i18n): streamline restaurant menu modifier selection and price tally
 - **[2025-05-27 09:20:37]** (887/2200) chore(order): add comprehensive unit tests for delivery fee calculation
 - **[2025-05-27 11:30:07]** (888/2200) feat(restaurant): refactor delivery zone polygon geofencing algorithm
+- **[2025-05-27 13:33:37]** (889/2200) fix(auth): enhance push notification handler for incoming delivery alerts
