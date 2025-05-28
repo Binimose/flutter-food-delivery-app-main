@@ -893,3 +893,4 @@
 - **[2025-05-27 17:37:37]** (891/2200) perf(cache): update documentation for Google Maps API key configuration
 - **[2025-05-27 19:47:07]** (892/2200) style(map): refactor rider earnings and payout history controller
 - **[2025-05-28 09:19:43]** (893/2200) docs(notification): fine-tune dark theme contrast on order checkout screen
+- **[2025-05-28 11:29:13]** (894/2200) test(ui): implement one-tap phone call button to customer from rider view
