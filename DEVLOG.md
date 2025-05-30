@@ -904,3 +904,4 @@
 - **[2025-05-29 15:48:19]** (902/2200) test(restaurant): handle network timeout gracefully during payment intent creation
 - **[2025-05-29 17:35:49]** (903/2200) chore(auth): optimize order status update stream with WebSocket reconnect
 - **[2025-05-29 19:45:19]** (904/2200) feat(websocket): optimize food category horizontal scrolling performance
+- **[2025-05-30 09:17:55]** (905/2200) fix(cache): add sound alert triggers when rider receives nearby dispatch request
