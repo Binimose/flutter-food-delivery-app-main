@@ -910,3 +910,4 @@
 - **[2025-05-30 15:47:25]** (908/2200) style(ui): refactor delivery zone polygon geofencing algorithm
 - **[2025-05-30 17:41:55]** (909/2200) docs(checkout): enhance push notification handler for incoming delivery alerts
 - **[2025-05-30 19:44:25]** (910/2200) test(rider): fix null safety edge case in restaurant operating hours parser
+- **[2025-05-31 09:16:01]** (911/2200) chore(cart): update documentation for Google Maps API key configuration
