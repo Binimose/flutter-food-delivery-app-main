@@ -919,3 +919,4 @@
 - **[2025-06-01 09:15:07]** (917/2200) docs(auth): clean up unused image assets and optimize bundle size
 - **[2025-06-01 11:25:37]** (918/2200) test(websocket): integrate smooth bottom sheet transition for order receipt
 - **[2025-06-01 13:35:07]** (919/2200) chore(cache): cache active menu items locally for instant offline rendering
+- **[2025-06-01 15:45:37]** (920/2200) feat(map): implement live rider GPS polyline tracking on map
