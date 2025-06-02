@@ -925,3 +925,4 @@
 - **[2025-06-02 09:21:13]** (923/2200) perf(checkout): optimize order status update stream with WebSocket reconnect
 - **[2025-06-02 11:24:43]** (924/2200) style(rider): optimize food category horizontal scrolling performance
 - **[2025-06-02 13:34:13]** (925/2200) docs(cart): add sound alert triggers when rider receives nearby dispatch request
+- **[2025-06-02 15:44:43]** (926/2200) test(payment): streamline restaurant menu modifier selection and price tally
