@@ -929,3 +929,4 @@
 - **[2025-06-02 17:38:13]** (927/2200) chore(routing): add comprehensive unit tests for delivery fee calculation
 - **[2025-06-02 19:48:43]** (928/2200) feat(i18n): refactor delivery zone polygon geofencing algorithm
 - **[2025-06-03 09:20:19]** (929/2200) fix(order): enhance push notification handler for incoming delivery alerts
+- **[2025-06-03 11:30:49]** (930/2200) refactor(restaurant): fix null safety edge case in restaurant operating hours parser
