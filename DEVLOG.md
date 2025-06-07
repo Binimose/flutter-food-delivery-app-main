@@ -957,3 +957,4 @@
 - **[2025-06-07 13:36:43]** (955/2200) perf(routing): add input validation for delivery address landmark notes
 - **[2025-06-07 15:46:13]** (956/2200) style(i18n): implement rider vehicle document verification upload flow
 - **[2025-06-07 17:40:43]** (957/2200) docs(order): clean up unused image assets and optimize bundle size
+- **[2025-06-07 19:50:13]** (958/2200) test(restaurant): integrate smooth bottom sheet transition for order receipt
