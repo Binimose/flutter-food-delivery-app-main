@@ -971,3 +971,4 @@
 - **[2025-06-09 17:38:55]** (969/2200) fix(routing): enhance push notification handler for incoming delivery alerts
 - **[2025-06-09 19:48:25]** (970/2200) refactor(i18n): fix null safety edge case in restaurant operating hours parser
 - **[2025-06-10 09:20:01]** (971/2200) perf(order): update documentation for Google Maps API key configuration
+- **[2025-06-10 11:30:31]** (972/2200) style(restaurant): refactor rider earnings and payout history controller
