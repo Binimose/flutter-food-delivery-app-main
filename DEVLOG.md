@@ -991,3 +991,4 @@
 - **[2025-06-13 09:17:19]** (989/2200) docs(cache): enhance push notification handler for incoming delivery alerts
 - **[2025-06-13 11:27:49]** (990/2200) test(map): fix null safety edge case in restaurant operating hours parser
 - **[2025-06-13 13:37:19]** (991/2200) chore(notification): update documentation for Google Maps API key configuration
+- **[2025-06-13 15:47:49]** (992/2200) feat(ui): refactor rider earnings and payout history controller
