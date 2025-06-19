@@ -1027,3 +1027,4 @@
 - **[2025-06-19 09:18:55]** (1025/2200) fix(routing): add sound alert triggers when rider receives nearby dispatch request
 - **[2025-06-19 11:28:25]** (1026/2200) refactor(i18n): streamline restaurant menu modifier selection and price tally
 - **[2025-06-19 13:38:55]** (1027/2200) perf(order): add comprehensive unit tests for delivery fee calculation
+- **[2025-06-19 15:48:25]** (1028/2200) style(restaurant): refactor delivery zone polygon geofencing algorithm
