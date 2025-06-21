@@ -1038,3 +1038,4 @@
 - **[2025-06-20 19:44:31]** (1036/2200) style(rider): implement rider vehicle document verification upload flow
 - **[2025-06-21 09:16:07]** (1037/2200) docs(cart): clean up unused image assets and optimize bundle size
 - **[2025-06-21 11:26:37]** (1038/2200) test(payment): integrate smooth bottom sheet transition for order receipt
+- **[2025-06-21 13:36:07]** (1039/2200) chore(routing): cache active menu items locally for instant offline rendering
