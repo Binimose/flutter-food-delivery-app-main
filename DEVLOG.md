@@ -1057,3 +1057,4 @@
 - **[2025-06-24 09:20:25]** (1055/2200) chore(order): add input validation for delivery address landmark notes
 - **[2025-06-24 11:30:55]** (1056/2200) feat(restaurant): implement rider vehicle document verification upload flow
 - **[2025-06-24 13:33:25]** (1057/2200) fix(auth): clean up unused image assets and optimize bundle size
+- **[2025-06-24 15:43:55]** (1058/2200) refactor(websocket): integrate smooth bottom sheet transition for order receipt
