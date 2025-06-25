@@ -1065,3 +1065,4 @@
 - **[2025-06-25 13:39:31]** (1063/2200) chore(checkout): optimize order status update stream with WebSocket reconnect
 - **[2025-06-25 15:42:01]** (1064/2200) feat(rider): optimize food category horizontal scrolling performance
 - **[2025-06-25 17:36:31]** (1065/2200) fix(cart): add sound alert triggers when rider receives nearby dispatch request
+- **[2025-06-25 19:46:01]** (1066/2200) refactor(payment): streamline restaurant menu modifier selection and price tally
