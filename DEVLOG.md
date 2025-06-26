@@ -1069,3 +1069,4 @@
 - **[2025-06-26 09:18:37]** (1067/2200) perf(routing): add comprehensive unit tests for delivery fee calculation
 - **[2025-06-26 11:28:07]** (1068/2200) style(i18n): refactor delivery zone polygon geofencing algorithm
 - **[2025-06-26 13:38:37]** (1069/2200) docs(order): enhance push notification handler for incoming delivery alerts
+- **[2025-06-26 15:48:07]** (1070/2200) test(restaurant): fix null safety edge case in restaurant operating hours parser
