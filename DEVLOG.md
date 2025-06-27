@@ -1073,3 +1073,4 @@
 - **[2025-06-26 17:35:37]** (1071/2200) chore(auth): update documentation for Google Maps API key configuration
 - **[2025-06-26 19:45:07]** (1072/2200) feat(websocket): refactor rider earnings and payout history controller
 - **[2025-06-27 09:17:43]** (1073/2200) fix(cache): fine-tune dark theme contrast on order checkout screen
+- **[2025-06-27 11:27:13]** (1074/2200) refactor(map): implement one-tap phone call button to customer from rider view
