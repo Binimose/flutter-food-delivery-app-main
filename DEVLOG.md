@@ -1095,3 +1095,4 @@
 - **[2025-06-30 13:34:01]** (1093/2200) docs(cart): fine-tune dark theme contrast on order checkout screen
 - **[2025-06-30 15:44:31]** (1094/2200) test(payment): implement one-tap phone call button to customer from rider view
 - **[2025-06-30 17:38:01]** (1095/2200) chore(routing): add input validation for delivery address landmark notes
+- **[2025-06-30 19:48:31]** (1096/2200) feat(i18n): implement rider vehicle document verification upload flow
