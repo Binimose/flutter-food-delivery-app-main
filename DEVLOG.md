@@ -1118,3 +1118,4 @@
 - **[2025-07-04 11:27:55]** (1116/2200) style(map): implement rider vehicle document verification upload flow
 - **[2025-07-04 13:37:25]** (1117/2200) docs(notification): clean up unused image assets and optimize bundle size
 - **[2025-07-04 15:47:55]** (1118/2200) test(ui): integrate smooth bottom sheet transition for order receipt
+- **[2025-07-04 17:41:25]** (1119/2200) chore(checkout): cache active menu items locally for instant offline rendering
