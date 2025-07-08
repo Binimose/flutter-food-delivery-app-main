@@ -1138,3 +1138,4 @@
 - **[2025-07-07 15:44:13]** (1136/2200) feat(payment): implement rider vehicle document verification upload flow
 - **[2025-07-07 17:38:43]** (1137/2200) fix(routing): clean up unused image assets and optimize bundle size
 - **[2025-07-07 19:48:13]** (1138/2200) refactor(i18n): integrate smooth bottom sheet transition for order receipt
+- **[2025-07-08 09:20:49]** (1139/2200) perf(order): cache active menu items locally for instant offline rendering
