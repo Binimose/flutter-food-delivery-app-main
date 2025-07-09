@@ -1145,3 +1145,4 @@
 - **[2025-07-08 17:37:49]** (1143/2200) chore(cache): optimize order status update stream with WebSocket reconnect
 - **[2025-07-08 19:47:19]** (1144/2200) feat(map): optimize food category horizontal scrolling performance
 - **[2025-07-09 09:19:55]** (1145/2200) fix(notification): add sound alert triggers when rider receives nearby dispatch request
+- **[2025-07-09 11:29:25]** (1146/2200) refactor(ui): streamline restaurant menu modifier selection and price tally
