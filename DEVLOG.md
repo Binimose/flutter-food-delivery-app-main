@@ -1155,3 +1155,4 @@
 - **[2025-07-10 13:38:01]** (1153/2200) fix(order): fine-tune dark theme contrast on order checkout screen
 - **[2025-07-10 15:48:31]** (1154/2200) refactor(restaurant): implement one-tap phone call button to customer from rider view
 - **[2025-07-10 17:35:01]** (1155/2200) perf(auth): add input validation for delivery address landmark notes
+- **[2025-07-10 19:45:31]** (1156/2200) style(websocket): implement rider vehicle document verification upload flow
