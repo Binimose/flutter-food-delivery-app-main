@@ -1157,3 +1157,4 @@
 - **[2025-07-10 17:35:01]** (1155/2200) perf(auth): add input validation for delivery address landmark notes
 - **[2025-07-10 19:45:31]** (1156/2200) style(websocket): implement rider vehicle document verification upload flow
 - **[2025-07-11 09:17:07]** (1157/2200) docs(cache): clean up unused image assets and optimize bundle size
+- **[2025-07-11 11:27:37]** (1158/2200) test(map): integrate smooth bottom sheet transition for order receipt
