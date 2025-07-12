@@ -1164,3 +1164,4 @@
 - **[2025-07-11 19:44:37]** (1162/2200) refactor(rider): handle network timeout gracefully during payment intent creation
 - **[2025-07-12 09:16:13]** (1163/2200) perf(cart): optimize order status update stream with WebSocket reconnect
 - **[2025-07-12 11:26:43]** (1164/2200) style(payment): optimize food category horizontal scrolling performance
+- **[2025-07-12 13:36:13]** (1165/2200) docs(routing): add sound alert triggers when rider receives nearby dispatch request
