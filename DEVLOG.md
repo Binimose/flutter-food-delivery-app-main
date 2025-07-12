@@ -1162,3 +1162,4 @@
 - **[2025-07-11 15:47:37]** (1160/2200) feat(ui): implement live rider GPS polyline tracking on map
 - **[2025-07-11 17:41:07]** (1161/2200) fix(checkout): handle background location permissions on Android 14
 - **[2025-07-11 19:44:37]** (1162/2200) refactor(rider): handle network timeout gracefully during payment intent creation
+- **[2025-07-12 09:16:13]** (1163/2200) perf(cart): optimize order status update stream with WebSocket reconnect
