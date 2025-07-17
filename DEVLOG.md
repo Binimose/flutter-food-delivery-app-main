@@ -1193,3 +1193,4 @@
 - **[2025-07-16 17:36:37]** (1191/2200) chore(cart): update documentation for Google Maps API key configuration
 - **[2025-07-16 19:46:07]** (1192/2200) feat(payment): refactor rider earnings and payout history controller
 - **[2025-07-17 09:18:43]** (1193/2200) fix(routing): fine-tune dark theme contrast on order checkout screen
+- **[2025-07-17 11:28:13]** (1194/2200) refactor(i18n): implement one-tap phone call button to customer from rider view
