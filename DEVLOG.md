@@ -1201,3 +1201,4 @@
 - **[2025-07-18 09:17:49]** (1199/2200) chore(cache): cache active menu items locally for instant offline rendering
 - **[2025-07-18 11:27:19]** (1200/2200) feat(map): implement live rider GPS polyline tracking on map
 - **[2025-07-18 13:37:49]** (1201/2200) fix(notification): handle background location permissions on Android 14
+- **[2025-07-18 15:47:19]** (1202/2200) refactor(ui): handle network timeout gracefully during payment intent creation
