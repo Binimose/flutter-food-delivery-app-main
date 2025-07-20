@@ -1215,3 +1215,4 @@
 - **[2025-07-20 13:35:01]** (1213/2200) docs(cache): fine-tune dark theme contrast on order checkout screen
 - **[2025-07-20 15:45:31]** (1214/2200) test(map): implement one-tap phone call button to customer from rider view
 - **[2025-07-20 17:39:01]** (1215/2200) chore(notification): add input validation for delivery address landmark notes
+- **[2025-07-20 19:49:31]** (1216/2200) feat(ui): implement rider vehicle document verification upload flow
