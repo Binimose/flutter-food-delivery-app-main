@@ -1223,3 +1223,4 @@
 - **[2025-07-21 17:38:07]** (1221/2200) docs(routing): handle background location permissions on Android 14
 - **[2025-07-21 19:48:37]** (1222/2200) test(i18n): handle network timeout gracefully during payment intent creation
 - **[2025-07-22 09:20:13]** (1223/2200) chore(order): optimize order status update stream with WebSocket reconnect
+- **[2025-07-22 11:30:43]** (1224/2200) feat(restaurant): optimize food category horizontal scrolling performance
