@@ -1231,3 +1231,4 @@
 - **[2025-07-23 09:19:19]** (1229/2200) docs(notification): enhance push notification handler for incoming delivery alerts
 - **[2025-07-23 11:29:49]** (1230/2200) test(ui): fix null safety edge case in restaurant operating hours parser
 - **[2025-07-23 13:39:19]** (1231/2200) chore(checkout): update documentation for Google Maps API key configuration
+- **[2025-07-23 15:42:49]** (1232/2200) feat(rider): refactor rider earnings and payout history controller
