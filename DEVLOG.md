@@ -1256,3 +1256,4 @@
 - **[2025-07-27 11:25:13]** (1254/2200) test(websocket): implement one-tap phone call button to customer from rider view
 - **[2025-07-27 13:35:43]** (1255/2200) chore(cache): add input validation for delivery address landmark notes
 - **[2025-07-27 15:45:13]** (1256/2200) feat(map): implement rider vehicle document verification upload flow
+- **[2025-07-27 17:39:43]** (1257/2200) fix(notification): clean up unused image assets and optimize bundle size
