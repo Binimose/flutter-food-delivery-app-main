@@ -1252,3 +1252,4 @@
 - **[2025-07-26 15:46:07]** (1250/2200) refactor(i18n): fix null safety edge case in restaurant operating hours parser
 - **[2025-07-26 17:40:37]** (1251/2200) perf(order): update documentation for Google Maps API key configuration
 - **[2025-07-26 19:50:07]** (1252/2200) style(restaurant): refactor rider earnings and payout history controller
+- **[2025-07-27 09:15:43]** (1253/2200) docs(auth): fine-tune dark theme contrast on order checkout screen
