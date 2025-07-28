@@ -1258,3 +1258,4 @@
 - **[2025-07-27 15:45:13]** (1256/2200) feat(map): implement rider vehicle document verification upload flow
 - **[2025-07-27 17:39:43]** (1257/2200) fix(notification): clean up unused image assets and optimize bundle size
 - **[2025-07-27 19:49:13]** (1258/2200) refactor(ui): integrate smooth bottom sheet transition for order receipt
+- **[2025-07-28 09:21:49]** (1259/2200) perf(checkout): cache active menu items locally for instant offline rendering
