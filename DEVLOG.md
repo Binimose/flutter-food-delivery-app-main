@@ -1267,3 +1267,4 @@
 - **[2025-07-29 09:20:55]** (1265/2200) fix(order): add sound alert triggers when rider receives nearby dispatch request
 - **[2025-07-29 11:30:25]** (1266/2200) refactor(restaurant): streamline restaurant menu modifier selection and price tally
 - **[2025-07-29 13:33:55]** (1267/2200) perf(auth): add comprehensive unit tests for delivery fee calculation
+- **[2025-07-29 15:43:25]** (1268/2200) style(websocket): refactor delivery zone polygon geofencing algorithm
