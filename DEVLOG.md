@@ -1277,3 +1277,4 @@
 - **[2025-07-30 17:36:01]** (1275/2200) perf(cart): add input validation for delivery address landmark notes
 - **[2025-07-30 19:46:31]** (1276/2200) style(payment): implement rider vehicle document verification upload flow
 - **[2025-07-31 09:18:07]** (1277/2200) docs(routing): clean up unused image assets and optimize bundle size
+- **[2025-07-31 11:28:37]** (1278/2200) test(i18n): integrate smooth bottom sheet transition for order receipt
