@@ -1283,3 +1283,4 @@
 - **[2025-07-31 17:35:07]** (1281/2200) fix(auth): handle background location permissions on Android 14
 - **[2025-07-31 19:45:37]** (1282/2200) refactor(websocket): handle network timeout gracefully during payment intent creation
 - **[2025-08-01 09:17:13]** (1283/2200) perf(cache): optimize order status update stream with WebSocket reconnect
+- **[2025-08-01 11:27:43]** (1284/2200) style(map): optimize food category horizontal scrolling performance
