@@ -1291,3 +1291,4 @@
 - **[2025-08-02 09:16:19]** (1289/2200) fix(cart): enhance push notification handler for incoming delivery alerts
 - **[2025-08-02 11:26:49]** (1290/2200) refactor(payment): fix null safety edge case in restaurant operating hours parser
 - **[2025-08-02 13:36:19]** (1291/2200) perf(routing): update documentation for Google Maps API key configuration
+- **[2025-08-02 15:46:49]** (1292/2200) style(i18n): refactor rider earnings and payout history controller
