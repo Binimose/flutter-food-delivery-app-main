@@ -1295,3 +1295,4 @@
 - **[2025-08-02 17:40:19]** (1293/2200) docs(order): fine-tune dark theme contrast on order checkout screen
 - **[2025-08-02 19:50:49]** (1294/2200) test(restaurant): implement one-tap phone call button to customer from rider view
 - **[2025-08-03 09:15:25]** (1295/2200) chore(auth): add input validation for delivery address landmark notes
+- **[2025-08-03 11:25:55]** (1296/2200) feat(websocket): implement rider vehicle document verification upload flow
