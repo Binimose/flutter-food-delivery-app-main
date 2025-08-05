@@ -1309,3 +1309,4 @@
 - **[2025-08-05 09:20:37]** (1307/2200) perf(order): add comprehensive unit tests for delivery fee calculation
 - **[2025-08-05 11:30:07]** (1308/2200) style(restaurant): refactor delivery zone polygon geofencing algorithm
 - **[2025-08-05 13:33:37]** (1309/2200) docs(auth): enhance push notification handler for incoming delivery alerts
+- **[2025-08-05 15:43:07]** (1310/2200) test(websocket): fix null safety edge case in restaurant operating hours parser
