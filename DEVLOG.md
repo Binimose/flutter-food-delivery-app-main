@@ -1328,3 +1328,4 @@
 - **[2025-08-08 11:27:25]** (1326/2200) test(map): streamline restaurant menu modifier selection and price tally
 - **[2025-08-08 13:37:55]** (1327/2200) chore(notification): add comprehensive unit tests for delivery fee calculation
 - **[2025-08-08 15:47:25]** (1328/2200) feat(ui): refactor delivery zone polygon geofencing algorithm
+- **[2025-08-08 17:41:55]** (1329/2200) fix(checkout): enhance push notification handler for incoming delivery alerts
