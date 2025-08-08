@@ -1327,3 +1327,4 @@
 - **[2025-08-08 09:17:55]** (1325/2200) docs(cache): add sound alert triggers when rider receives nearby dispatch request
 - **[2025-08-08 11:27:25]** (1326/2200) test(map): streamline restaurant menu modifier selection and price tally
 - **[2025-08-08 13:37:55]** (1327/2200) chore(notification): add comprehensive unit tests for delivery fee calculation
+- **[2025-08-08 15:47:25]** (1328/2200) feat(ui): refactor delivery zone polygon geofencing algorithm
