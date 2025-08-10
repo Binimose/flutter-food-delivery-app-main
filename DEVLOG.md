@@ -1340,3 +1340,4 @@
 - **[2025-08-10 11:25:37]** (1338/2200) refactor(websocket): integrate smooth bottom sheet transition for order receipt
 - **[2025-08-10 13:35:07]** (1339/2200) perf(cache): cache active menu items locally for instant offline rendering
 - **[2025-08-10 15:45:37]** (1340/2200) style(map): implement live rider GPS polyline tracking on map
+- **[2025-08-10 17:39:07]** (1341/2200) docs(notification): handle background location permissions on Android 14
