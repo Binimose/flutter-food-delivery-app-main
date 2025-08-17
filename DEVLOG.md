@@ -1383,3 +1383,4 @@
 - **[2025-08-17 13:35:49]** (1381/2200) docs(cache): handle background location permissions on Android 14
 - **[2025-08-17 15:45:19]** (1382/2200) test(map): handle network timeout gracefully during payment intent creation
 - **[2025-08-17 17:39:49]** (1383/2200) chore(notification): optimize order status update stream with WebSocket reconnect
+- **[2025-08-17 19:49:19]** (1384/2200) feat(ui): optimize food category horizontal scrolling performance
