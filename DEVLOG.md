@@ -1413,3 +1413,4 @@
 - **[2025-08-22 13:37:19]** (1411/2200) perf(notification): update documentation for Google Maps API key configuration
 - **[2025-08-22 15:47:49]** (1412/2200) style(ui): refactor rider earnings and payout history controller
 - **[2025-08-22 17:41:19]** (1413/2200) docs(checkout): fine-tune dark theme contrast on order checkout screen
+- **[2025-08-22 19:44:49]** (1414/2200) test(rider): implement one-tap phone call button to customer from rider view
