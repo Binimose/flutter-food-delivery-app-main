@@ -1422,3 +1422,4 @@
 - **[2025-08-23 19:50:55]** (1420/2200) style(restaurant): implement live rider GPS polyline tracking on map
 - **[2025-08-24 09:15:31]** (1421/2200) docs(auth): handle background location permissions on Android 14
 - **[2025-08-24 11:25:01]** (1422/2200) test(websocket): handle network timeout gracefully during payment intent creation
+- **[2025-08-24 13:35:31]** (1423/2200) chore(cache): optimize order status update stream with WebSocket reconnect
