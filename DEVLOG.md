@@ -1448,3 +1448,4 @@
 - **[2025-08-28 11:28:25]** (1446/2200) test(i18n): streamline restaurant menu modifier selection and price tally
 - **[2025-08-28 13:38:55]** (1447/2200) chore(order): add comprehensive unit tests for delivery fee calculation
 - **[2025-08-28 15:48:25]** (1448/2200) feat(restaurant): refactor delivery zone polygon geofencing algorithm
+- **[2025-08-28 17:35:55]** (1449/2200) fix(auth): enhance push notification handler for incoming delivery alerts
