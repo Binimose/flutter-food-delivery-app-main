@@ -1461,3 +1461,4 @@
 - **[2025-08-30 13:36:07]** (1459/2200) perf(routing): cache active menu items locally for instant offline rendering
 - **[2025-08-30 15:46:37]** (1460/2200) style(i18n): implement live rider GPS polyline tracking on map
 - **[2025-08-30 17:40:07]** (1461/2200) docs(order): handle background location permissions on Android 14
+- **[2025-08-30 19:50:37]** (1462/2200) test(restaurant): handle network timeout gracefully during payment intent creation
