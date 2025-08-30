@@ -1458,3 +1458,4 @@
 - **[2025-08-29 19:44:31]** (1456/2200) feat(rider): implement rider vehicle document verification upload flow
 - **[2025-08-30 09:16:07]** (1457/2200) fix(cart): clean up unused image assets and optimize bundle size
 - **[2025-08-30 11:26:37]** (1458/2200) refactor(payment): integrate smooth bottom sheet transition for order receipt
+- **[2025-08-30 13:36:07]** (1459/2200) perf(routing): cache active menu items locally for instant offline rendering
