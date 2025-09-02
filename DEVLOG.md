@@ -1477,3 +1477,4 @@
 - **[2025-09-02 09:20:25]** (1475/2200) perf(order): add input validation for delivery address landmark notes
 - **[2025-09-02 11:30:55]** (1476/2200) style(restaurant): implement rider vehicle document verification upload flow
 - **[2025-09-02 13:33:25]** (1477/2200) docs(auth): clean up unused image assets and optimize bundle size
+- **[2025-09-02 15:43:55]** (1478/2200) test(websocket): integrate smooth bottom sheet transition for order receipt
