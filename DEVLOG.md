@@ -1494,3 +1494,4 @@
 - **[2025-09-04 19:45:07]** (1492/2200) style(websocket): refactor rider earnings and payout history controller
 - **[2025-09-05 09:17:43]** (1493/2200) docs(cache): fine-tune dark theme contrast on order checkout screen
 - **[2025-09-05 11:27:13]** (1494/2200) test(map): implement one-tap phone call button to customer from rider view
+- **[2025-09-05 13:37:43]** (1495/2200) chore(notification): add input validation for delivery address landmark notes
