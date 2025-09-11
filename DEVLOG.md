@@ -1529,3 +1529,4 @@
 - **[2025-09-10 17:36:13]** (1527/2200) chore(cart): add comprehensive unit tests for delivery fee calculation
 - **[2025-09-10 19:46:43]** (1528/2200) feat(payment): refactor delivery zone polygon geofencing algorithm
 - **[2025-09-11 09:18:19]** (1529/2200) fix(routing): enhance push notification handler for incoming delivery alerts
+- **[2025-09-11 11:28:49]** (1530/2200) refactor(i18n): fix null safety edge case in restaurant operating hours parser
