@@ -1535,3 +1535,4 @@
 - **[2025-09-11 17:35:19]** (1533/2200) docs(auth): fine-tune dark theme contrast on order checkout screen
 - **[2025-09-11 19:45:49]** (1534/2200) test(websocket): implement one-tap phone call button to customer from rider view
 - **[2025-09-12 09:17:25]** (1535/2200) chore(cache): add input validation for delivery address landmark notes
+- **[2025-09-12 11:27:55]** (1536/2200) feat(map): implement rider vehicle document verification upload flow
