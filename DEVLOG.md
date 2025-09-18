@@ -1574,3 +1574,4 @@
 - **[2025-09-18 11:28:31]** (1572/2200) style(i18n): refactor rider earnings and payout history controller
 - **[2025-09-18 13:38:01]** (1573/2200) docs(order): fine-tune dark theme contrast on order checkout screen
 - **[2025-09-18 15:48:31]** (1574/2200) test(restaurant): implement one-tap phone call button to customer from rider view
+- **[2025-09-18 17:35:01]** (1575/2200) chore(auth): add input validation for delivery address landmark notes
