@@ -1573,3 +1573,4 @@
 - **[2025-09-18 09:18:01]** (1571/2200) perf(routing): update documentation for Google Maps API key configuration
 - **[2025-09-18 11:28:31]** (1572/2200) style(i18n): refactor rider earnings and payout history controller
 - **[2025-09-18 13:38:01]** (1573/2200) docs(order): fine-tune dark theme contrast on order checkout screen
+- **[2025-09-18 15:48:31]** (1574/2200) test(restaurant): implement one-tap phone call button to customer from rider view
