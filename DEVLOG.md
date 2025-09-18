@@ -1571,3 +1571,4 @@
 - **[2025-09-17 17:36:55]** (1569/2200) fix(cart): enhance push notification handler for incoming delivery alerts
 - **[2025-09-17 19:46:25]** (1570/2200) refactor(payment): fix null safety edge case in restaurant operating hours parser
 - **[2025-09-18 09:18:01]** (1571/2200) perf(routing): update documentation for Google Maps API key configuration
+- **[2025-09-18 11:28:31]** (1572/2200) style(i18n): refactor rider earnings and payout history controller
