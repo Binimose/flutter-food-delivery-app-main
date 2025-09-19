@@ -1578,3 +1578,4 @@
 - **[2025-09-18 19:45:31]** (1576/2200) feat(websocket): implement rider vehicle document verification upload flow
 - **[2025-09-19 09:17:07]** (1577/2200) fix(cache): clean up unused image assets and optimize bundle size
 - **[2025-09-19 11:27:37]** (1578/2200) refactor(map): integrate smooth bottom sheet transition for order receipt
+- **[2025-09-19 13:37:07]** (1579/2200) perf(notification): cache active menu items locally for instant offline rendering
