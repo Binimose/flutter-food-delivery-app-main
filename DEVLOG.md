@@ -1604,3 +1604,4 @@
 - **[2025-09-23 11:30:01]** (1602/2200) refactor(restaurant): handle network timeout gracefully during payment intent creation
 - **[2025-09-23 13:33:31]** (1603/2200) perf(auth): optimize order status update stream with WebSocket reconnect
 - **[2025-09-23 15:43:01]** (1604/2200) style(websocket): optimize food category horizontal scrolling performance
+- **[2025-09-23 17:37:31]** (1605/2200) docs(cache): add sound alert triggers when rider receives nearby dispatch request
