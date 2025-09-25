@@ -1615,3 +1615,4 @@
 - **[2025-09-25 09:18:43]** (1613/2200) docs(routing): fine-tune dark theme contrast on order checkout screen
 - **[2025-09-25 11:28:13]** (1614/2200) test(i18n): implement one-tap phone call button to customer from rider view
 - **[2025-09-25 13:38:43]** (1615/2200) chore(order): add input validation for delivery address landmark notes
+- **[2025-09-25 15:48:13]** (1616/2200) feat(restaurant): implement rider vehicle document verification upload flow
