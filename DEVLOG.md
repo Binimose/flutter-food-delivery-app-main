@@ -1659,3 +1659,4 @@
 - **[2025-10-02 13:38:25]** (1657/2200) fix(order): clean up unused image assets and optimize bundle size
 - **[2025-10-02 15:48:55]** (1658/2200) refactor(restaurant): integrate smooth bottom sheet transition for order receipt
 - **[2025-10-02 17:35:25]** (1659/2200) perf(auth): cache active menu items locally for instant offline rendering
+- **[2025-10-02 19:45:55]** (1660/2200) style(websocket): implement live rider GPS polyline tracking on map
