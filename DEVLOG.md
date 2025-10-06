@@ -1679,3 +1679,4 @@
 - **[2025-10-05 17:39:43]** (1677/2200) docs(notification): clean up unused image assets and optimize bundle size
 - **[2025-10-05 19:49:13]** (1678/2200) test(ui): integrate smooth bottom sheet transition for order receipt
 - **[2025-10-06 09:21:49]** (1679/2200) chore(checkout): cache active menu items locally for instant offline rendering
+- **[2025-10-06 11:24:19]** (1680/2200) feat(rider): implement live rider GPS polyline tracking on map
