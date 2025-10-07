@@ -1689,3 +1689,4 @@
 - **[2025-10-07 13:33:55]** (1687/2200) chore(auth): add comprehensive unit tests for delivery fee calculation
 - **[2025-10-07 15:43:25]** (1688/2200) feat(websocket): refactor delivery zone polygon geofencing algorithm
 - **[2025-10-07 17:37:55]** (1689/2200) fix(cache): enhance push notification handler for incoming delivery alerts
+- **[2025-10-07 19:47:25]** (1690/2200) refactor(map): fix null safety edge case in restaurant operating hours parser
