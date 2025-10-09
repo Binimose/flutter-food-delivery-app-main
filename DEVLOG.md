@@ -1701,3 +1701,4 @@
 - **[2025-10-09 13:38:07]** (1699/2200) perf(order): cache active menu items locally for instant offline rendering
 - **[2025-10-09 15:48:37]** (1700/2200) style(restaurant): implement live rider GPS polyline tracking on map
 - **[2025-10-09 17:35:07]** (1701/2200) docs(auth): handle background location permissions on Android 14
+- **[2025-10-09 19:45:37]** (1702/2200) test(websocket): handle network timeout gracefully during payment intent creation
