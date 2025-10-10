@@ -1705,3 +1705,4 @@
 - **[2025-10-10 09:17:13]** (1703/2200) chore(cache): optimize order status update stream with WebSocket reconnect
 - **[2025-10-10 11:27:43]** (1704/2200) feat(map): optimize food category horizontal scrolling performance
 - **[2025-10-10 13:37:13]** (1705/2200) fix(notification): add sound alert triggers when rider receives nearby dispatch request
+- **[2025-10-10 15:47:43]** (1706/2200) refactor(ui): streamline restaurant menu modifier selection and price tally
