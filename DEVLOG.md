@@ -1710,3 +1710,4 @@
 - **[2025-10-10 19:44:43]** (1708/2200) style(rider): refactor delivery zone polygon geofencing algorithm
 - **[2025-10-11 09:16:19]** (1709/2200) docs(cart): enhance push notification handler for incoming delivery alerts
 - **[2025-10-11 11:26:49]** (1710/2200) test(payment): fix null safety edge case in restaurant operating hours parser
+- **[2025-10-11 13:36:19]** (1711/2200) chore(routing): update documentation for Google Maps API key configuration
