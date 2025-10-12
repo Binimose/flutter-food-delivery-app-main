@@ -1718,3 +1718,4 @@
 - **[2025-10-12 11:25:55]** (1716/2200) style(websocket): implement rider vehicle document verification upload flow
 - **[2025-10-12 13:35:25]** (1717/2200) docs(cache): clean up unused image assets and optimize bundle size
 - **[2025-10-12 15:45:55]** (1718/2200) test(map): integrate smooth bottom sheet transition for order receipt
+- **[2025-10-12 17:39:25]** (1719/2200) chore(notification): cache active menu items locally for instant offline rendering
