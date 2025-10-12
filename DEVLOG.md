@@ -1714,3 +1714,4 @@
 - **[2025-10-11 15:46:49]** (1712/2200) feat(i18n): refactor rider earnings and payout history controller
 - **[2025-10-11 17:40:19]** (1713/2200) fix(order): fine-tune dark theme contrast on order checkout screen
 - **[2025-10-11 19:50:49]** (1714/2200) refactor(restaurant): implement one-tap phone call button to customer from rider view
+- **[2025-10-12 09:15:25]** (1715/2200) perf(auth): add input validation for delivery address landmark notes
