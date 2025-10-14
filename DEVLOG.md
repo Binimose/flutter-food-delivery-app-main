@@ -1730,3 +1730,4 @@
 - **[2025-10-14 11:30:07]** (1728/2200) feat(restaurant): refactor delivery zone polygon geofencing algorithm
 - **[2025-10-14 13:33:37]** (1729/2200) fix(auth): enhance push notification handler for incoming delivery alerts
 - **[2025-10-14 15:43:07]** (1730/2200) refactor(websocket): fix null safety edge case in restaurant operating hours parser
+- **[2025-10-14 17:37:37]** (1731/2200) perf(cache): update documentation for Google Maps API key configuration
