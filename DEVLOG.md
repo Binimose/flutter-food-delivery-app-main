@@ -1743,3 +1743,4 @@
 - **[2025-10-16 13:38:49]** (1741/2200) docs(order): handle background location permissions on Android 14
 - **[2025-10-16 15:48:19]** (1742/2200) test(restaurant): handle network timeout gracefully during payment intent creation
 - **[2025-10-16 17:35:49]** (1743/2200) chore(auth): optimize order status update stream with WebSocket reconnect
+- **[2025-10-16 19:45:19]** (1744/2200) feat(websocket): optimize food category horizontal scrolling performance
