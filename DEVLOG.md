@@ -1744,3 +1744,4 @@
 - **[2025-10-16 15:48:19]** (1742/2200) test(restaurant): handle network timeout gracefully during payment intent creation
 - **[2025-10-16 17:35:49]** (1743/2200) chore(auth): optimize order status update stream with WebSocket reconnect
 - **[2025-10-16 19:45:19]** (1744/2200) feat(websocket): optimize food category horizontal scrolling performance
+- **[2025-10-17 09:17:55]** (1745/2200) fix(cache): add sound alert triggers when rider receives nearby dispatch request
