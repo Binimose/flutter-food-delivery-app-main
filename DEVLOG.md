@@ -1748,3 +1748,4 @@
 - **[2025-10-17 11:27:25]** (1746/2200) refactor(map): streamline restaurant menu modifier selection and price tally
 - **[2025-10-17 13:37:55]** (1747/2200) perf(notification): add comprehensive unit tests for delivery fee calculation
 - **[2025-10-17 15:47:25]** (1748/2200) style(ui): refactor delivery zone polygon geofencing algorithm
+- **[2025-10-17 17:41:55]** (1749/2200) docs(checkout): enhance push notification handler for incoming delivery alerts
