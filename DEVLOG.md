@@ -1782,3 +1782,4 @@
 - **[2025-10-22 19:46:55]** (1780/2200) style(payment): implement live rider GPS polyline tracking on map
 - **[2025-10-23 09:18:31]** (1781/2200) docs(routing): handle background location permissions on Android 14
 - **[2025-10-23 11:28:01]** (1782/2200) test(i18n): handle network timeout gracefully during payment intent creation
+- **[2025-10-23 13:38:31]** (1783/2200) chore(order): optimize order status update stream with WebSocket reconnect
