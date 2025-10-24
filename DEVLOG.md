@@ -1786,3 +1786,4 @@
 - **[2025-10-23 15:48:01]** (1784/2200) feat(restaurant): optimize food category horizontal scrolling performance
 - **[2025-10-23 17:35:31]** (1785/2200) fix(auth): add sound alert triggers when rider receives nearby dispatch request
 - **[2025-10-23 19:45:01]** (1786/2200) refactor(websocket): streamline restaurant menu modifier selection and price tally
+- **[2025-10-24 09:17:37]** (1787/2200) perf(cache): add comprehensive unit tests for delivery fee calculation
