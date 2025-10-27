@@ -1804,3 +1804,4 @@
 - **[2025-10-26 15:45:19]** (1802/2200) refactor(map): handle network timeout gracefully during payment intent creation
 - **[2025-10-26 17:39:49]** (1803/2200) perf(notification): optimize order status update stream with WebSocket reconnect
 - **[2025-10-26 19:49:19]** (1804/2200) style(ui): optimize food category horizontal scrolling performance
+- **[2025-10-27 09:21:55]** (1805/2200) docs(checkout): add sound alert triggers when rider receives nearby dispatch request
