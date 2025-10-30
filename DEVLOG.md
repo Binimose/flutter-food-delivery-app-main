@@ -1823,3 +1823,4 @@
 - **[2025-10-29 17:36:07]** (1821/2200) docs(cart): handle background location permissions on Android 14
 - **[2025-10-29 19:46:37]** (1822/2200) test(payment): handle network timeout gracefully during payment intent creation
 - **[2025-10-30 09:18:13]** (1823/2200) chore(routing): optimize order status update stream with WebSocket reconnect
+- **[2025-10-30 11:28:43]** (1824/2200) feat(i18n): optimize food category horizontal scrolling performance
