@@ -1839,3 +1839,4 @@
 - **[2025-11-01 13:36:25]** (1837/2200) docs(routing): clean up unused image assets and optimize bundle size
 - **[2025-11-01 15:46:55]** (1838/2200) test(i18n): integrate smooth bottom sheet transition for order receipt
 - **[2025-11-01 17:40:25]** (1839/2200) chore(order): cache active menu items locally for instant offline rendering
+- **[2025-11-01 19:50:55]** (1840/2200) feat(restaurant): implement live rider GPS polyline tracking on map
