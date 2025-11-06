@@ -1869,3 +1869,4 @@
 - **[2025-11-06 13:38:55]** (1867/2200) perf(order): add comprehensive unit tests for delivery fee calculation
 - **[2025-11-06 15:48:25]** (1868/2200) style(restaurant): refactor delivery zone polygon geofencing algorithm
 - **[2025-11-06 17:35:55]** (1869/2200) docs(auth): enhance push notification handler for incoming delivery alerts
+- **[2025-11-06 19:45:25]** (1870/2200) test(websocket): fix null safety edge case in restaurant operating hours parser
