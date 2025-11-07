@@ -1870,3 +1870,4 @@
 - **[2025-11-06 15:48:25]** (1868/2200) style(restaurant): refactor delivery zone polygon geofencing algorithm
 - **[2025-11-06 17:35:55]** (1869/2200) docs(auth): enhance push notification handler for incoming delivery alerts
 - **[2025-11-06 19:45:25]** (1870/2200) test(websocket): fix null safety edge case in restaurant operating hours parser
+- **[2025-11-07 09:17:01]** (1871/2200) chore(cache): update documentation for Google Maps API key configuration
