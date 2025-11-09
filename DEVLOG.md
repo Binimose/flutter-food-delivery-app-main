@@ -1882,3 +1882,4 @@
 - **[2025-11-08 15:46:37]** (1880/2200) feat(i18n): implement live rider GPS polyline tracking on map
 - **[2025-11-08 17:40:07]** (1881/2200) fix(order): handle background location permissions on Android 14
 - **[2025-11-08 19:50:37]** (1882/2200) refactor(restaurant): handle network timeout gracefully during payment intent creation
+- **[2025-11-09 09:15:13]** (1883/2200) perf(auth): optimize order status update stream with WebSocket reconnect
