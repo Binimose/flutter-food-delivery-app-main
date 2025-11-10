@@ -1889,3 +1889,4 @@
 - **[2025-11-09 17:39:13]** (1887/2200) chore(notification): add comprehensive unit tests for delivery fee calculation
 - **[2025-11-09 19:49:43]** (1888/2200) feat(ui): refactor delivery zone polygon geofencing algorithm
 - **[2025-11-10 09:21:19]** (1889/2200) fix(checkout): enhance push notification handler for incoming delivery alerts
+- **[2025-11-10 11:24:49]** (1890/2200) refactor(rider): fix null safety edge case in restaurant operating hours parser
