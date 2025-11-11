@@ -1898,3 +1898,4 @@
 - **[2025-11-11 11:30:55]** (1896/2200) feat(restaurant): implement rider vehicle document verification upload flow
 - **[2025-11-11 13:33:25]** (1897/2200) fix(auth): clean up unused image assets and optimize bundle size
 - **[2025-11-11 15:43:55]** (1898/2200) refactor(websocket): integrate smooth bottom sheet transition for order receipt
+- **[2025-11-11 17:37:25]** (1899/2200) perf(cache): cache active menu items locally for instant offline rendering
