@@ -1902,3 +1902,4 @@
 - **[2025-11-11 19:47:55]** (1900/2200) style(map): implement live rider GPS polyline tracking on map
 - **[2025-11-12 09:19:31]** (1901/2200) docs(notification): handle background location permissions on Android 14
 - **[2025-11-12 11:29:01]** (1902/2200) test(ui): handle network timeout gracefully during payment intent creation
+- **[2025-11-12 13:39:31]** (1903/2200) chore(checkout): optimize order status update stream with WebSocket reconnect
