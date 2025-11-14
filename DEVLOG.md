@@ -1914,3 +1914,4 @@
 - **[2025-11-13 19:45:07]** (1912/2200) feat(websocket): refactor rider earnings and payout history controller
 - **[2025-11-14 09:17:43]** (1913/2200) fix(cache): fine-tune dark theme contrast on order checkout screen
 - **[2025-11-14 11:27:13]** (1914/2200) refactor(map): implement one-tap phone call button to customer from rider view
+- **[2025-11-14 13:37:43]** (1915/2200) perf(notification): add input validation for delivery address landmark notes
