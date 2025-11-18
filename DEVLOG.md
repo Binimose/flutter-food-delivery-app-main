@@ -1939,3 +1939,4 @@
 - **[2025-11-18 09:20:07]** (1937/2200) fix(order): clean up unused image assets and optimize bundle size
 - **[2025-11-18 11:30:37]** (1938/2200) refactor(restaurant): integrate smooth bottom sheet transition for order receipt
 - **[2025-11-18 13:33:07]** (1939/2200) perf(auth): cache active menu items locally for instant offline rendering
+- **[2025-11-18 15:43:37]** (1940/2200) style(websocket): implement live rider GPS polyline tracking on map
