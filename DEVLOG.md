@@ -1941,3 +1941,4 @@
 - **[2025-11-18 13:33:07]** (1939/2200) perf(auth): cache active menu items locally for instant offline rendering
 - **[2025-11-18 15:43:37]** (1940/2200) style(websocket): implement live rider GPS polyline tracking on map
 - **[2025-11-18 17:37:07]** (1941/2200) docs(cache): handle background location permissions on Android 14
+- **[2025-11-18 19:47:37]** (1942/2200) test(map): handle network timeout gracefully during payment intent creation
