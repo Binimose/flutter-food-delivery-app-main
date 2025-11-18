@@ -1937,3 +1937,4 @@
 - **[2025-11-17 17:38:01]** (1935/2200) chore(routing): add input validation for delivery address landmark notes
 - **[2025-11-17 19:48:31]** (1936/2200) feat(i18n): implement rider vehicle document verification upload flow
 - **[2025-11-18 09:20:07]** (1937/2200) fix(order): clean up unused image assets and optimize bundle size
+- **[2025-11-18 11:30:37]** (1938/2200) refactor(restaurant): integrate smooth bottom sheet transition for order receipt
