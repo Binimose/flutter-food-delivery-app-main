@@ -1950,3 +1950,4 @@
 - **[2025-11-19 19:46:43]** (1948/2200) style(payment): refactor delivery zone polygon geofencing algorithm
 - **[2025-11-20 09:18:19]** (1949/2200) docs(routing): enhance push notification handler for incoming delivery alerts
 - **[2025-11-20 11:28:49]** (1950/2200) test(i18n): fix null safety edge case in restaurant operating hours parser
+- **[2025-11-20 13:38:19]** (1951/2200) chore(order): update documentation for Google Maps API key configuration
