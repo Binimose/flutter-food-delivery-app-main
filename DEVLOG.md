@@ -1954,3 +1954,4 @@
 - **[2025-11-20 15:48:49]** (1952/2200) feat(restaurant): refactor rider earnings and payout history controller
 - **[2025-11-20 17:35:19]** (1953/2200) fix(auth): fine-tune dark theme contrast on order checkout screen
 - **[2025-11-20 19:45:49]** (1954/2200) refactor(websocket): implement one-tap phone call button to customer from rider view
+- **[2025-11-21 09:17:25]** (1955/2200) perf(cache): add input validation for delivery address landmark notes
