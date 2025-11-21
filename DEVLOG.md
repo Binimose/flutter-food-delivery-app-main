@@ -1959,3 +1959,4 @@
 - **[2025-11-21 13:37:25]** (1957/2200) docs(notification): clean up unused image assets and optimize bundle size
 - **[2025-11-21 15:47:55]** (1958/2200) test(ui): integrate smooth bottom sheet transition for order receipt
 - **[2025-11-21 17:41:25]** (1959/2200) chore(checkout): cache active menu items locally for instant offline rendering
+- **[2025-11-21 19:44:55]** (1960/2200) feat(rider): implement live rider GPS polyline tracking on map
