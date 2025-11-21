@@ -1957,3 +1957,4 @@
 - **[2025-11-21 09:17:25]** (1955/2200) perf(cache): add input validation for delivery address landmark notes
 - **[2025-11-21 11:27:55]** (1956/2200) style(map): implement rider vehicle document verification upload flow
 - **[2025-11-21 13:37:25]** (1957/2200) docs(notification): clean up unused image assets and optimize bundle size
+- **[2025-11-21 15:47:55]** (1958/2200) test(ui): integrate smooth bottom sheet transition for order receipt
