@@ -1955,3 +1955,4 @@
 - **[2025-11-20 17:35:19]** (1953/2200) fix(auth): fine-tune dark theme contrast on order checkout screen
 - **[2025-11-20 19:45:49]** (1954/2200) refactor(websocket): implement one-tap phone call button to customer from rider view
 - **[2025-11-21 09:17:25]** (1955/2200) perf(cache): add input validation for delivery address landmark notes
+- **[2025-11-21 11:27:55]** (1956/2200) style(map): implement rider vehicle document verification upload flow
