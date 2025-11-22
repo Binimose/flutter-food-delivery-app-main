@@ -1965,3 +1965,4 @@
 - **[2025-11-22 13:36:31]** (1963/2200) perf(routing): optimize order status update stream with WebSocket reconnect
 - **[2025-11-22 15:46:01]** (1964/2200) style(i18n): optimize food category horizontal scrolling performance
 - **[2025-11-22 17:40:31]** (1965/2200) docs(order): add sound alert triggers when rider receives nearby dispatch request
+- **[2025-11-22 19:50:01]** (1966/2200) test(restaurant): streamline restaurant menu modifier selection and price tally
