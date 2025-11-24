@@ -1973,3 +1973,4 @@
 - **[2025-11-23 17:39:37]** (1971/2200) perf(notification): update documentation for Google Maps API key configuration
 - **[2025-11-23 19:49:07]** (1972/2200) style(ui): refactor rider earnings and payout history controller
 - **[2025-11-24 09:21:43]** (1973/2200) docs(checkout): fine-tune dark theme contrast on order checkout screen
+- **[2025-11-24 11:24:13]** (1974/2200) test(rider): implement one-tap phone call button to customer from rider view
