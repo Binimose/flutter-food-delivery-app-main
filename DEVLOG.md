@@ -1980,3 +1980,4 @@
 - **[2025-11-24 19:48:13]** (1978/2200) refactor(i18n): integrate smooth bottom sheet transition for order receipt
 - **[2025-11-25 09:20:49]** (1979/2200) perf(order): cache active menu items locally for instant offline rendering
 - **[2025-11-25 11:30:19]** (1980/2200) style(restaurant): implement live rider GPS polyline tracking on map
+- **[2025-11-25 13:33:49]** (1981/2200) docs(auth): handle background location permissions on Android 14
