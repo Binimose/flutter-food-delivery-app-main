@@ -1978,3 +1978,4 @@
 - **[2025-11-24 15:44:13]** (1976/2200) feat(payment): implement rider vehicle document verification upload flow
 - **[2025-11-24 17:38:43]** (1977/2200) fix(routing): clean up unused image assets and optimize bundle size
 - **[2025-11-24 19:48:13]** (1978/2200) refactor(i18n): integrate smooth bottom sheet transition for order receipt
+- **[2025-11-25 09:20:49]** (1979/2200) perf(order): cache active menu items locally for instant offline rendering
