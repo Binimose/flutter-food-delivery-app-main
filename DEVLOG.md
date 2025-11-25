@@ -1981,3 +1981,4 @@
 - **[2025-11-25 09:20:49]** (1979/2200) perf(order): cache active menu items locally for instant offline rendering
 - **[2025-11-25 11:30:19]** (1980/2200) style(restaurant): implement live rider GPS polyline tracking on map
 - **[2025-11-25 13:33:49]** (1981/2200) docs(auth): handle background location permissions on Android 14
+- **[2025-11-25 15:43:19]** (1982/2200) test(websocket): handle network timeout gracefully during payment intent creation
