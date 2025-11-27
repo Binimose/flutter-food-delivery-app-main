@@ -1991,3 +1991,4 @@
 - **[2025-11-26 17:36:55]** (1989/2200) docs(cart): enhance push notification handler for incoming delivery alerts
 - **[2025-11-26 19:46:25]** (1990/2200) test(payment): fix null safety edge case in restaurant operating hours parser
 - **[2025-11-27 09:18:01]** (1991/2200) chore(routing): update documentation for Google Maps API key configuration
+- **[2025-11-27 11:28:31]** (1992/2200) feat(i18n): refactor rider earnings and payout history controller
