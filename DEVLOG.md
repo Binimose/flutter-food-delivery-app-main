@@ -1995,3 +1995,4 @@
 - **[2025-11-27 13:38:01]** (1993/2200) fix(order): fine-tune dark theme contrast on order checkout screen
 - **[2025-11-27 15:48:31]** (1994/2200) refactor(restaurant): implement one-tap phone call button to customer from rider view
 - **[2025-11-27 17:35:01]** (1995/2200) perf(auth): add input validation for delivery address landmark notes
+- **[2025-11-27 19:45:31]** (1996/2200) style(websocket): implement rider vehicle document verification upload flow
