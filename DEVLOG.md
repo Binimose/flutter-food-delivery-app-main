@@ -1996,3 +1996,4 @@
 - **[2025-11-27 15:48:31]** (1994/2200) refactor(restaurant): implement one-tap phone call button to customer from rider view
 - **[2025-11-27 17:35:01]** (1995/2200) perf(auth): add input validation for delivery address landmark notes
 - **[2025-11-27 19:45:31]** (1996/2200) style(websocket): implement rider vehicle document verification upload flow
+- **[2025-11-28 09:17:07]** (1997/2200) docs(cache): clean up unused image assets and optimize bundle size
