@@ -2005,3 +2005,4 @@
 - **[2025-11-29 09:16:13]** (2003/2200) perf(cart): optimize order status update stream with WebSocket reconnect
 - **[2025-11-29 11:26:43]** (2004/2200) style(payment): optimize food category horizontal scrolling performance
 - **[2025-11-29 13:36:13]** (2005/2200) docs(routing): add sound alert triggers when rider receives nearby dispatch request
+- **[2025-11-29 15:46:43]** (2006/2200) test(i18n): streamline restaurant menu modifier selection and price tally
