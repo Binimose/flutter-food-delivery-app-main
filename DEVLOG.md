@@ -2007,3 +2007,4 @@
 - **[2025-11-29 13:36:13]** (2005/2200) docs(routing): add sound alert triggers when rider receives nearby dispatch request
 - **[2025-11-29 15:46:43]** (2006/2200) test(i18n): streamline restaurant menu modifier selection and price tally
 - **[2025-11-29 17:40:13]** (2007/2200) chore(order): add comprehensive unit tests for delivery fee calculation
+- **[2025-11-29 19:50:43]** (2008/2200) feat(restaurant): refactor delivery zone polygon geofencing algorithm
