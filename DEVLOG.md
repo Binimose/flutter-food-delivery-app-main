@@ -2006,3 +2006,4 @@
 - **[2025-11-29 11:26:43]** (2004/2200) style(payment): optimize food category horizontal scrolling performance
 - **[2025-11-29 13:36:13]** (2005/2200) docs(routing): add sound alert triggers when rider receives nearby dispatch request
 - **[2025-11-29 15:46:43]** (2006/2200) test(i18n): streamline restaurant menu modifier selection and price tally
+- **[2025-11-29 17:40:13]** (2007/2200) chore(order): add comprehensive unit tests for delivery fee calculation
