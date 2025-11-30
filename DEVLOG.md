@@ -2010,3 +2010,4 @@
 - **[2025-11-29 19:50:43]** (2008/2200) feat(restaurant): refactor delivery zone polygon geofencing algorithm
 - **[2025-11-30 09:15:19]** (2009/2200) fix(auth): enhance push notification handler for incoming delivery alerts
 - **[2025-11-30 11:25:49]** (2010/2200) refactor(websocket): fix null safety edge case in restaurant operating hours parser
+- **[2025-11-30 13:35:19]** (2011/2200) perf(cache): update documentation for Google Maps API key configuration
