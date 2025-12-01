@@ -2017,3 +2017,4 @@
 - **[2025-12-01 09:21:25]** (2015/2200) chore(checkout): add input validation for delivery address landmark notes
 - **[2025-12-01 11:24:55]** (2016/2200) feat(rider): implement rider vehicle document verification upload flow
 - **[2025-12-01 13:34:25]** (2017/2200) fix(cart): clean up unused image assets and optimize bundle size
+- **[2025-12-01 15:44:55]** (2018/2200) refactor(payment): integrate smooth bottom sheet transition for order receipt
