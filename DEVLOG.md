@@ -2015,3 +2015,4 @@
 - **[2025-11-30 17:39:19]** (2013/2200) docs(notification): fine-tune dark theme contrast on order checkout screen
 - **[2025-11-30 19:49:49]** (2014/2200) test(ui): implement one-tap phone call button to customer from rider view
 - **[2025-12-01 09:21:25]** (2015/2200) chore(checkout): add input validation for delivery address landmark notes
+- **[2025-12-01 11:24:55]** (2016/2200) feat(rider): implement rider vehicle document verification upload flow
