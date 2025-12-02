@@ -2023,3 +2023,4 @@
 - **[2025-12-02 09:20:31]** (2021/2200) docs(order): handle background location permissions on Android 14
 - **[2025-12-02 11:30:01]** (2022/2200) test(restaurant): handle network timeout gracefully during payment intent creation
 - **[2025-12-02 13:33:31]** (2023/2200) chore(auth): optimize order status update stream with WebSocket reconnect
+- **[2025-12-02 15:43:01]** (2024/2200) feat(websocket): optimize food category horizontal scrolling performance
