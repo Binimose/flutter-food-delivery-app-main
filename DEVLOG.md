@@ -2020,3 +2020,4 @@
 - **[2025-12-01 15:44:55]** (2018/2200) refactor(payment): integrate smooth bottom sheet transition for order receipt
 - **[2025-12-01 17:38:25]** (2019/2200) perf(routing): cache active menu items locally for instant offline rendering
 - **[2025-12-01 19:48:55]** (2020/2200) style(i18n): implement live rider GPS polyline tracking on map
+- **[2025-12-02 09:20:31]** (2021/2200) docs(order): handle background location permissions on Android 14
