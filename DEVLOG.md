@@ -2022,3 +2022,4 @@
 - **[2025-12-01 19:48:55]** (2020/2200) style(i18n): implement live rider GPS polyline tracking on map
 - **[2025-12-02 09:20:31]** (2021/2200) docs(order): handle background location permissions on Android 14
 - **[2025-12-02 11:30:01]** (2022/2200) test(restaurant): handle network timeout gracefully during payment intent creation
+- **[2025-12-02 13:33:31]** (2023/2200) chore(auth): optimize order status update stream with WebSocket reconnect
