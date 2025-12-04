@@ -2035,3 +2035,4 @@
 - **[2025-12-04 09:18:43]** (2033/2200) fix(routing): fine-tune dark theme contrast on order checkout screen
 - **[2025-12-04 11:28:13]** (2034/2200) refactor(i18n): implement one-tap phone call button to customer from rider view
 - **[2025-12-04 13:38:43]** (2035/2200) perf(order): add input validation for delivery address landmark notes
+- **[2025-12-04 15:48:13]** (2036/2200) style(restaurant): implement rider vehicle document verification upload flow
