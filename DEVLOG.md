@@ -2038,3 +2038,4 @@
 - **[2025-12-04 15:48:13]** (2036/2200) style(restaurant): implement rider vehicle document verification upload flow
 - **[2025-12-04 17:35:43]** (2037/2200) docs(auth): clean up unused image assets and optimize bundle size
 - **[2025-12-04 19:45:13]** (2038/2200) test(websocket): integrate smooth bottom sheet transition for order receipt
+- **[2025-12-05 09:17:49]** (2039/2200) chore(cache): cache active menu items locally for instant offline rendering
