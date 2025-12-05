@@ -2040,3 +2040,4 @@
 - **[2025-12-04 19:45:13]** (2038/2200) test(websocket): integrate smooth bottom sheet transition for order receipt
 - **[2025-12-05 09:17:49]** (2039/2200) chore(cache): cache active menu items locally for instant offline rendering
 - **[2025-12-05 11:27:19]** (2040/2200) feat(map): implement live rider GPS polyline tracking on map
+- **[2025-12-05 13:37:49]** (2041/2200) fix(notification): handle background location permissions on Android 14
