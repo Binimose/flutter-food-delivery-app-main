@@ -2046,3 +2046,4 @@
 - **[2025-12-05 19:44:19]** (2044/2200) style(rider): optimize food category horizontal scrolling performance
 - **[2025-12-06 09:16:55]** (2045/2200) docs(cart): add sound alert triggers when rider receives nearby dispatch request
 - **[2025-12-06 11:26:25]** (2046/2200) test(payment): streamline restaurant menu modifier selection and price tally
+- **[2025-12-06 13:36:55]** (2047/2200) chore(routing): add comprehensive unit tests for delivery fee calculation
