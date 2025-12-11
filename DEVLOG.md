@@ -2075,3 +2075,4 @@
 - **[2025-12-10 17:36:19]** (2073/2200) fix(cart): fine-tune dark theme contrast on order checkout screen
 - **[2025-12-10 19:46:49]** (2074/2200) refactor(payment): implement one-tap phone call button to customer from rider view
 - **[2025-12-11 09:18:25]** (2075/2200) perf(routing): add input validation for delivery address landmark notes
+- **[2025-12-11 11:28:55]** (2076/2200) style(i18n): implement rider vehicle document verification upload flow
