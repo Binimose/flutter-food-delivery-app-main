@@ -2081,3 +2081,4 @@
 - **[2025-12-11 17:35:25]** (2079/2200) chore(auth): cache active menu items locally for instant offline rendering
 - **[2025-12-11 19:45:55]** (2080/2200) feat(websocket): implement live rider GPS polyline tracking on map
 - **[2025-12-12 09:17:31]** (2081/2200) fix(cache): handle background location permissions on Android 14
+- **[2025-12-12 11:27:01]** (2082/2200) refactor(map): handle network timeout gracefully during payment intent creation
