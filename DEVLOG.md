@@ -2088,3 +2088,4 @@
 - **[2025-12-12 19:44:01]** (2086/2200) test(rider): streamline restaurant menu modifier selection and price tally
 - **[2025-12-13 09:16:37]** (2087/2200) chore(cart): add comprehensive unit tests for delivery fee calculation
 - **[2025-12-13 11:26:07]** (2088/2200) feat(payment): refactor delivery zone polygon geofencing algorithm
+- **[2025-12-13 13:36:37]** (2089/2200) fix(routing): enhance push notification handler for incoming delivery alerts
