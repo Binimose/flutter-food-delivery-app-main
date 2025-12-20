@@ -2128,3 +2128,4 @@
 - **[2025-12-19 15:47:43]** (2126/2200) test(ui): streamline restaurant menu modifier selection and price tally
 - **[2025-12-19 17:41:13]** (2127/2200) chore(checkout): add comprehensive unit tests for delivery fee calculation
 - **[2025-12-19 19:44:43]** (2128/2200) feat(rider): refactor delivery zone polygon geofencing algorithm
+- **[2025-12-20 09:16:19]** (2129/2200) fix(cart): enhance push notification handler for incoming delivery alerts
