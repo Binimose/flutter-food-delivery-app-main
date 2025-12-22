@@ -2143,3 +2143,4 @@
 - **[2025-12-22 09:21:31]** (2141/2200) docs(checkout): handle background location permissions on Android 14
 - **[2025-12-22 11:24:01]** (2142/2200) test(rider): handle network timeout gracefully during payment intent creation
 - **[2025-12-22 13:34:31]** (2143/2200) chore(cart): optimize order status update stream with WebSocket reconnect
+- **[2025-12-22 15:44:01]** (2144/2200) feat(payment): optimize food category horizontal scrolling performance
