@@ -2140,3 +2140,4 @@
 - **[2025-12-21 15:45:55]** (2138/2200) refactor(map): integrate smooth bottom sheet transition for order receipt
 - **[2025-12-21 17:39:25]** (2139/2200) perf(notification): cache active menu items locally for instant offline rendering
 - **[2025-12-21 19:49:55]** (2140/2200) style(ui): implement live rider GPS polyline tracking on map
+- **[2025-12-22 09:21:31]** (2141/2200) docs(checkout): handle background location permissions on Android 14
