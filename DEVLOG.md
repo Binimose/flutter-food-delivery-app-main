@@ -2151,3 +2151,4 @@
 - **[2025-12-23 13:33:37]** (2149/2200) docs(auth): enhance push notification handler for incoming delivery alerts
 - **[2025-12-23 15:43:07]** (2150/2200) test(websocket): fix null safety edge case in restaurant operating hours parser
 - **[2025-12-23 17:37:37]** (2151/2200) chore(cache): update documentation for Google Maps API key configuration
+- **[2025-12-23 19:47:07]** (2152/2200) feat(map): refactor rider earnings and payout history controller
