@@ -2157,3 +2157,4 @@
 - **[2025-12-24 13:39:43]** (2155/2200) perf(checkout): add input validation for delivery address landmark notes
 - **[2025-12-24 15:42:13]** (2156/2200) style(rider): implement rider vehicle document verification upload flow
 - **[2025-12-24 17:36:43]** (2157/2200) docs(cart): clean up unused image assets and optimize bundle size
+- **[2025-12-24 19:46:13]** (2158/2200) test(payment): integrate smooth bottom sheet transition for order receipt
