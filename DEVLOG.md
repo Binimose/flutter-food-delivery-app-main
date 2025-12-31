@@ -2198,3 +2198,4 @@
 - **[2025-12-31 11:29:55]** (2196/2200) style(ui): implement rider vehicle document verification upload flow
 - **[2025-12-31 13:39:25]** (2197/2200) docs(checkout): clean up unused image assets and optimize bundle size
 - **[2025-12-31 15:42:55]** (2198/2200) test(rider): integrate smooth bottom sheet transition for order receipt
+- **[2025-12-31 17:36:25]** (2199/2200) chore(cart): cache active menu items locally for instant offline rendering
